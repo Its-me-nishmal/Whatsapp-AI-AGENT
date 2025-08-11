@@ -1,0 +1,1468 @@
+2025-07-25 15:08:55 [ERROR]: GEMINI_API_KEY is not set. Please set it in your .env file.
+2025-07-25 15:08:55 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-25 15:08:55 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-25 15:08:55 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-25 15:08:55 [INFO]: Loading existing sessions...
+2025-07-25 15:08:55 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-25 15:08:55 [INFO]: Server is running on port 3000
+2025-07-25 15:08:55 [INFO]: Loading existing sessions...
+2025-07-25 15:08:55 [INFO]: Finished loading existing sessions.
+2025-07-25 15:08:55 [INFO]: Finished loading existing sessions.
+2025-07-25 15:08:55 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-25 15:08:55 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-25 15:08:55 [INFO]: Loaded 0 custom prompts.
+2025-07-25 15:08:55 [INFO]: Default prompt loaded successfully.
+2025-07-25 15:11:27 [INFO]: Creating new session for 917994107442
+2025-07-25 15:12:12 [INFO]: QR code generated for 917994107442
+2025-07-25 15:12:13 [INFO]: Client initialization started for 917994107442
+2025-07-25 15:12:35 [INFO]: Creating new session for 917994107442
+2025-07-25 15:13:11 [INFO]: QR code generated for 917994107442
+2025-07-25 15:13:31 [INFO]: QR code generated for 917994107442
+2025-07-25 15:13:51 [INFO]: QR code generated for 917994107442
+2025-07-25 15:14:11 [INFO]: QR code generated for 917994107442
+2025-07-25 15:14:31 [INFO]: QR code generated for 917994107442
+2025-07-25 15:15:42 [INFO]: QR code generated for 917994107442
+2025-07-25 15:16:42 [INFO]: QR code generated for 917994107442
+2025-07-25 15:17:02 [INFO]: QR code generated for 917994107442
+2025-07-25 15:17:22 [INFO]: QR code generated for 917994107442
+2025-07-25 15:17:42 [INFO]: QR code generated for 917994107442
+2025-07-25 15:18:02 [INFO]: QR code generated for 917994107442
+2025-07-25 15:19:18 [INFO]: QR code generated for 917994107442
+2025-07-25 15:20:14 [ERROR]: GEMINI_API_KEY is not set. Please set it in your .env file.
+2025-07-25 15:20:15 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-25 15:20:15 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-25 15:20:15 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-25 15:20:15 [INFO]: Loading existing sessions...
+2025-07-25 15:20:15 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-25 15:20:15 [INFO]: Server is running on port 3000
+2025-07-25 15:20:15 [INFO]: Loading existing sessions...
+2025-07-25 15:20:15 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-25 15:20:15 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-25 15:20:15 [INFO]: Finished loading existing sessions.
+2025-07-25 15:20:15 [INFO]: Finished loading existing sessions.
+2025-07-25 15:20:15 [INFO]: Loaded 0 custom prompts.
+2025-07-25 15:20:15 [INFO]: Default prompt loaded successfully.
+2025-07-25 15:20:27 [INFO]: Creating new session for 917994107442
+2025-07-25 15:20:51 [INFO]: Client initialization started for 917994107442
+2025-07-25 15:20:52 [INFO]: Pairing code for 917994107442: 9575DDL8
+2025-07-25 15:21:14 [INFO]: Session for 917994107442 is in pairing state.
+2025-07-25 15:22:12 [INFO]: Session for 917994107442 is in pairing state.
+2025-07-25 15:22:17 [INFO]: Session for 917994107442 is in pairing state.
+2025-07-25 15:22:41 [INFO]: Session for 917994107442 is in pairing state.
+2025-07-25 15:22:47 [INFO]: Session for 917994107442 is in pairing state.
+2025-07-25 15:22:48 [INFO]: Session for 917994107442 is in pairing state.
+2025-07-25 15:22:50 [INFO]: Session authenticated for 917994107442
+2025-07-25 15:22:51 [INFO]: Creating new session for 917994107442
+2025-07-25 15:23:15 [INFO]: Session authenticated for 917994107442
+2025-07-25 15:23:15 [INFO]: Session authenticated for 917994107442
+2025-07-25 15:23:17 [INFO]: Session ready for 917994107442
+2025-07-25 15:23:17 [INFO]: Session ready for 917994107442
+2025-07-25 15:23:18 [INFO]: Session ready for 917994107442
+2025-07-25 15:23:46 [WARN]: Session disconnected for 917994107442: LOGOUT
+2025-07-25 15:24:50 [ERROR]: GEMINI_API_KEY is not set. Please set it in your .env file.
+2025-07-25 15:24:50 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-25 15:24:50 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-25 15:24:50 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-25 15:24:50 [INFO]: Loading existing sessions...
+2025-07-25 15:24:50 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-25 15:24:51 [INFO]: Server is running on port 3000
+2025-07-25 15:24:51 [INFO]: Loading existing sessions...
+2025-07-25 15:24:51 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-25 15:24:51 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-25 15:24:51 [INFO]: Finished loading existing sessions.
+2025-07-25 15:24:51 [INFO]: Finished loading existing sessions.
+2025-07-25 15:24:51 [INFO]: Loaded 0 custom prompts.
+2025-07-25 15:24:51 [INFO]: Default prompt loaded successfully.
+2025-07-27 09:38:23 [ERROR]: GEMINI_API_KEY is not set. Please set it in your .env file.
+2025-07-27 09:38:23 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-27 09:38:24 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 09:38:24 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-27 09:38:24 [INFO]: Loading existing sessions...
+2025-07-27 09:38:24 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-27 09:38:24 [INFO]: Server is running on port 3000
+2025-07-27 09:38:24 [INFO]: Loading existing sessions...
+2025-07-27 09:38:24 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 09:38:24 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 09:38:24 [INFO]: Finished loading existing sessions.
+2025-07-27 09:38:24 [INFO]: Finished loading existing sessions.
+2025-07-27 09:38:24 [INFO]: Loaded 0 custom prompts.
+2025-07-27 09:38:24 [INFO]: Default prompt loaded successfully.
+2025-07-27 09:48:32 [ERROR]: GEMINI_API_KEY is not set. Please set it in your .env file.
+2025-07-27 09:48:32 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-27 09:48:32 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 09:48:32 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-27 09:48:32 [INFO]: Loading existing sessions...
+2025-07-27 09:48:32 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-27 09:48:32 [INFO]: Server is running on port 3000
+2025-07-27 09:48:32 [INFO]: Loading existing sessions...
+2025-07-27 09:48:32 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 09:48:32 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 09:48:32 [INFO]: Finished loading existing sessions.
+2025-07-27 09:48:32 [INFO]: Finished loading existing sessions.
+2025-07-27 09:48:32 [INFO]: Loaded 0 custom prompts.
+2025-07-27 09:48:32 [INFO]: Default prompt loaded successfully.
+2025-07-27 10:07:53 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-27 10:07:53 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:07:53 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-27 10:07:53 [INFO]: Loading existing sessions...
+2025-07-27 10:07:53 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-27 10:07:53 [INFO]: Server is running on port 3000
+2025-07-27 10:07:53 [INFO]: Loading existing sessions...
+2025-07-27 10:07:53 [INFO]: Finished loading existing sessions.
+2025-07-27 10:07:53 [INFO]: Finished loading existing sessions.
+2025-07-27 10:07:53 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:07:53 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:07:53 [INFO]: Loaded 0 custom prompts.
+2025-07-27 10:07:53 [INFO]: Default prompt loaded successfully.
+2025-07-27 10:09:40 [INFO]: Creating new session for 917994107442
+2025-07-27 10:10:24 [INFO]: Client initialization started for 917994107442
+2025-07-27 10:10:25 [INFO]: Pairing code for 917994107442: 96WCTC7C
+2025-07-27 10:11:50 [INFO]: Session for 917994107442 is in pairing state.
+2025-07-27 10:11:53 [INFO]: Session for 917994107442 is in pairing state.
+2025-07-27 10:11:54 [INFO]: Session for 917994107442 is in pairing state.
+2025-07-27 10:12:09 [INFO]: Session for 917994107442 is in pairing state.
+2025-07-27 10:12:15 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-27 10:12:15 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:12:15 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-27 10:12:15 [INFO]: Loading existing sessions...
+2025-07-27 10:12:15 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-27 10:12:15 [INFO]: Server is running on port 3000
+2025-07-27 10:12:15 [INFO]: Loading existing sessions...
+2025-07-27 10:12:15 [INFO]: Finished loading existing sessions.
+2025-07-27 10:12:15 [INFO]: Finished loading existing sessions.
+2025-07-27 10:12:15 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:12:15 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:12:15 [INFO]: Loaded 0 custom prompts.
+2025-07-27 10:12:15 [INFO]: Default prompt loaded successfully.
+2025-07-27 10:12:18 [INFO]: Creating new session for 917994107442
+2025-07-27 10:12:49 [INFO]: Client initialization started for 917994107442
+2025-07-27 10:12:50 [INFO]: Pairing code for 917994107442: Y898F11K
+2025-07-27 10:16:32 [WARN]: Session disconnected for 917994107442: LOGOUT
+2025-07-27 10:18:11 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-27 10:18:11 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:18:11 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-27 10:18:11 [INFO]: Loading existing sessions...
+2025-07-27 10:18:11 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-27 10:18:11 [INFO]: Server is running on port 3000
+2025-07-27 10:18:11 [INFO]: Loading existing sessions...
+2025-07-27 10:18:11 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:18:11 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:18:11 [INFO]: Finished loading existing sessions.
+2025-07-27 10:18:11 [INFO]: Finished loading existing sessions.
+2025-07-27 10:18:11 [INFO]: Loaded 0 custom prompts.
+2025-07-27 10:18:11 [INFO]: Default prompt loaded successfully.
+2025-07-27 10:18:20 [INFO]: Creating new session for 917994107442
+2025-07-27 10:18:31 [ERROR]: Failed to initialize session for 917994107442: Execution context was destroyed, most likely because of a navigation.
+2025-07-27 10:18:31 [ERROR]: Error removing session data for 917994107442: EBUSY: resource busy or locked, unlink 'C:\Time Pass\whatsapp agent\sessions\917994107442\session-917994107442\Default\chrome_debug.log'
+2025-07-27 10:18:31 [INFO]: Session state removed from memory for 917994107442
+2025-07-27 10:18:54 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-27 10:18:54 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:18:54 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-27 10:18:54 [INFO]: Loading existing sessions...
+2025-07-27 10:18:54 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-27 10:18:55 [INFO]: Server is running on port 3000
+2025-07-27 10:18:55 [INFO]: Loading existing sessions...
+2025-07-27 10:18:55 [INFO]: Finished loading existing sessions.
+2025-07-27 10:18:55 [INFO]: Finished loading existing sessions.
+2025-07-27 10:18:55 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:18:55 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:18:55 [INFO]: Loaded 0 custom prompts.
+2025-07-27 10:18:55 [INFO]: Default prompt loaded successfully.
+2025-07-27 10:18:57 [INFO]: Creating new session for 917994107442
+2025-07-27 10:19:18 [INFO]: Client initialization started for 917994107442
+2025-07-27 10:19:18 [INFO]: Pairing code for 917994107442: G69TTQYR
+2025-07-27 10:20:56 [INFO]: Session authenticated for 917994107442
+2025-07-27 10:20:59 [INFO]: Session ready for 917994107442
+2025-07-27 10:21:57 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-27 10:21:57 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:21:57 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-27 10:21:57 [INFO]: Loading existing sessions...
+2025-07-27 10:21:57 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-27 10:21:57 [INFO]: Server is running on port 3000
+2025-07-27 10:21:57 [INFO]: Loading existing sessions...
+2025-07-27 10:21:57 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:21:57 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:21:57 [INFO]: Finished loading existing sessions.
+2025-07-27 10:21:57 [INFO]: Finished loading existing sessions.
+2025-07-27 10:21:57 [INFO]: Loaded 0 custom prompts.
+2025-07-27 10:21:57 [INFO]: Default prompt loaded successfully.
+2025-07-27 10:26:22 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-27 10:26:22 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:26:22 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-27 10:26:22 [INFO]: Loading existing sessions...
+2025-07-27 10:26:22 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-27 10:26:22 [INFO]: Server is running on port 3000
+2025-07-27 10:26:22 [INFO]: Loading existing sessions...
+2025-07-27 10:26:22 [INFO]: Finished loading existing sessions.
+2025-07-27 10:26:22 [INFO]: Finished loading existing sessions.
+2025-07-27 10:26:22 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:26:22 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:26:22 [INFO]: Loaded 0 custom prompts.
+2025-07-27 10:26:22 [INFO]: Default prompt loaded successfully.
+2025-07-27 10:27:42 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-27 10:27:42 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:27:42 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-27 10:27:42 [INFO]: Loading existing sessions...
+2025-07-27 10:27:42 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-27 10:27:43 [INFO]: Server is running on port 3000
+2025-07-27 10:27:43 [INFO]: Loading existing sessions...
+2025-07-27 10:27:43 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-07-27 10:27:43 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-07-27 10:27:43 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:27:43 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:27:43 [INFO]: Loaded 0 custom prompts.
+2025-07-27 10:27:43 [INFO]: Default prompt loaded successfully.
+2025-07-27 10:28:06 [WARN]: QR generated for existing session 917994107442. Attempting to get pairing code instead.
+2025-07-27 10:28:06 [INFO]: Client initialization started for 917994107442
+2025-07-27 10:28:06 [INFO]: Finished loading existing sessions.
+2025-07-27 10:28:07 [INFO]: Pairing code for 917994107442: AY747M1P
+2025-07-27 10:29:00 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-27 10:29:00 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:29:00 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-27 10:29:00 [INFO]: Loading existing sessions...
+2025-07-27 10:29:00 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-27 10:29:00 [INFO]: Server is running on port 3000
+2025-07-27 10:29:00 [INFO]: Loading existing sessions...
+2025-07-27 10:29:00 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-07-27 10:29:00 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-07-27 10:29:00 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:29:00 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:29:00 [INFO]: Loaded 0 custom prompts.
+2025-07-27 10:29:00 [INFO]: Default prompt loaded successfully.
+2025-07-27 10:29:09 [ERROR]: Failed to initialize session for 917994107442: Protocol error (Runtime.callFunctionOn): Execution context was destroyed.
+2025-07-27 10:29:09 [ERROR]: Error removing session data for 917994107442: EBUSY: resource busy or locked, unlink 'C:\Time Pass\whatsapp agent\sessions\session-917994107442\Default\Cookies'
+2025-07-27 10:29:09 [INFO]: Session state removed from memory for 917994107442
+2025-07-27 10:29:09 [INFO]: Finished loading existing sessions.
+2025-07-27 10:29:31 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-27 10:29:31 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:29:31 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-27 10:29:31 [INFO]: Loading existing sessions...
+2025-07-27 10:29:31 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-27 10:29:31 [INFO]: Server is running on port 3000
+2025-07-27 10:29:31 [INFO]: Loading existing sessions...
+2025-07-27 10:29:31 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-07-27 10:29:31 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-07-27 10:29:31 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:29:31 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-27 10:29:31 [INFO]: Loaded 0 custom prompts.
+2025-07-27 10:29:31 [INFO]: Default prompt loaded successfully.
+2025-07-27 10:29:49 [ERROR]: Failed to initialize session for 917994107442: Protocol error (Runtime.callFunctionOn): Execution context was destroyed.
+2025-07-27 10:29:49 [ERROR]: Error removing session data for 917994107442: EBUSY: resource busy or locked, unlink 'C:\Time Pass\whatsapp agent\sessions\session-917994107442\Default\chrome_debug.log'
+2025-07-27 10:29:49 [INFO]: Session state removed from memory for 917994107442
+2025-07-27 10:29:49 [INFO]: Finished loading existing sessions.
+2025-07-27 10:44:39 [ERROR]: Failed to initialize session for 917994107442: Protocol error (Runtime.callFunctionOn): Target closed.
+2025-07-27 10:44:39 [ERROR]: Error removing session data for 917994107442: EBUSY: resource busy or locked, unlink 'C:\Time Pass\whatsapp agent\sessions\session-917994107442\Default\chrome_debug.log'
+2025-07-27 10:44:39 [INFO]: Session state removed from memory for 917994107442
+2025-07-27 10:44:39 [INFO]: Finished loading existing sessions.
+2025-07-28 16:40:33 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-28 16:40:33 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 16:40:33 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-28 16:40:33 [INFO]: Loading existing sessions...
+2025-07-28 16:40:33 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-28 16:40:34 [INFO]: Server is running on port 3000
+2025-07-28 16:40:34 [INFO]: Loading existing sessions...
+2025-07-28 16:40:34 [INFO]: Finished loading existing sessions.
+2025-07-28 16:40:34 [INFO]: Finished loading existing sessions.
+2025-07-28 16:40:34 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 16:40:34 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 16:40:34 [INFO]: Loaded 0 custom prompts.
+2025-07-28 16:40:34 [INFO]: Default prompt loaded successfully.
+2025-07-28 16:42:18 [INFO]: Creating new session for 917994107442. Bot is working...
+2025-07-28 16:42:35 [INFO]: Client initialization started for 917994107442
+2025-07-28 16:42:35 [INFO]: Pairing code for 917994107442: 4M2G227K
+2025-07-28 16:43:47 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-28 16:43:47 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 16:43:47 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-28 16:43:47 [INFO]: Loading existing sessions...
+2025-07-28 16:43:47 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-28 16:43:47 [INFO]: Server is running on port 3000
+2025-07-28 16:43:47 [INFO]: Loading existing sessions...
+2025-07-28 16:43:47 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-07-28 16:43:47 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-07-28 16:43:47 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 16:43:47 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 16:43:47 [INFO]: Loaded 0 custom prompts.
+2025-07-28 16:43:47 [INFO]: Default prompt loaded successfully.
+2025-07-28 16:43:57 [WARN]: QR generated for existing session 917994107442. Attempting to get pairing code instead.
+2025-07-28 16:43:58 [INFO]: Client initialization started for 917994107442
+2025-07-28 16:43:58 [INFO]: Finished loading existing sessions.
+2025-07-28 16:43:58 [INFO]: Pairing code for 917994107442: PHYWNQHQ
+2025-07-28 16:44:01 [INFO]: Session for 917994107442 is in pairing state.
+2025-07-28 16:45:08 [INFO]: Session authenticated for 917994107442
+2025-07-28 16:45:11 [INFO]: Session ready for 917994107442
+2025-07-28 16:48:37 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-28 16:48:37 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 16:48:37 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-28 16:48:37 [INFO]: Loading existing sessions...
+2025-07-28 16:48:37 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-28 16:48:37 [INFO]: Server is running on port 3000
+2025-07-28 16:48:37 [INFO]: Loading existing sessions...
+2025-07-28 16:48:37 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-07-28 16:48:37 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-07-28 16:48:37 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 16:48:37 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 16:48:37 [INFO]: Loaded 0 custom prompts.
+2025-07-28 16:48:37 [INFO]: Default prompt loaded successfully.
+2025-07-28 16:48:50 [INFO]: Client initialization started for 917994107442
+2025-07-28 16:48:50 [INFO]: Finished loading existing sessions.
+2025-07-28 16:49:08 [INFO]: Session authenticated for 917994107442
+2025-07-28 16:49:11 [INFO]: Session ready for 917994107442
+2025-07-28 16:50:31 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-28 16:50:31 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 16:50:31 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-28 16:50:31 [INFO]: Loading existing sessions...
+2025-07-28 16:50:31 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-28 16:50:31 [INFO]: Server is running on port 3000
+2025-07-28 16:50:31 [INFO]: Loading existing sessions...
+2025-07-28 16:50:31 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-07-28 16:50:31 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-07-28 16:50:31 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 16:50:31 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 16:50:31 [INFO]: Loaded 0 custom prompts.
+2025-07-28 16:50:31 [INFO]: Default prompt loaded successfully.
+2025-07-28 16:50:45 [INFO]: Client initialization started for 917994107442
+2025-07-28 16:50:45 [INFO]: Finished loading existing sessions.
+2025-07-28 16:50:59 [INFO]: Session authenticated for 917994107442
+2025-07-28 16:51:01 [INFO]: Session ready for 917994107442
+2025-07-28 16:52:03 [INFO]: Received message for 917994107442: [object Object]
+2025-07-28 16:55:10 [INFO]: Received message for 917994107442: [object Object]
+2025-07-28 16:55:56 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-28 16:55:56 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 16:55:56 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-28 16:55:56 [INFO]: Loading existing sessions...
+2025-07-28 16:55:56 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-28 16:55:56 [INFO]: Server is running on port 3000
+2025-07-28 16:55:56 [INFO]: Loading existing sessions...
+2025-07-28 16:55:56 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-07-28 16:55:56 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-07-28 16:55:56 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 16:55:56 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 16:55:56 [INFO]: Loaded 0 custom prompts.
+2025-07-28 16:55:56 [INFO]: Default prompt loaded successfully.
+2025-07-28 16:56:10 [INFO]: Client initialization started for 917994107442
+2025-07-28 16:56:10 [INFO]: Finished loading existing sessions.
+2025-07-28 16:56:24 [INFO]: Session authenticated for 917994107442
+2025-07-28 16:56:26 [INFO]: Session ready for 917994107442
+2025-07-28 16:56:51 [INFO]: Received message for 917994107442: [object Object]
+2025-07-28 16:56:55 [INFO]: Received message for 917994107442: [object Object]
+2025-07-28 16:56:55 [INFO]: Received command from 917994107442@c.us: .hi
+2025-07-28 16:56:55 [INFO]: Calling Gemini API for 917994107442 with history length 0
+2025-07-28 16:56:57 [ERROR]: Error generating AI response for 917994107442: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent: [400 Bad Request] * GenerateContentRequest.contents: contents is not specified
+
+2025-07-28 16:56:57 [ERROR]: Error processing message from 917994107442@c.us: Failed to generate AI response: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent: [400 Bad Request] * GenerateContentRequest.contents: contents is not specified
+
+2025-07-28 16:56:57 [INFO]: Received message for 917994107442: [object Object]
+2025-07-28 16:57:14 [INFO]: Received message for 917994107442: [object Object]
+2025-07-28 16:57:14 [INFO]: Received command from 917994107442@c.us: .helo
+2025-07-28 16:57:14 [INFO]: Calling Gemini API for 917994107442 with history length 0
+2025-07-28 16:57:15 [ERROR]: Error generating AI response for 917994107442: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent: [400 Bad Request] * GenerateContentRequest.contents: contents is not specified
+
+2025-07-28 16:57:15 [ERROR]: Error processing message from 917994107442@c.us: Failed to generate AI response: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent: [400 Bad Request] * GenerateContentRequest.contents: contents is not specified
+
+2025-07-28 16:57:15 [INFO]: Received message for 917994107442: [object Object]
+2025-07-28 16:57:31 [INFO]: Received message for 917994107442: [object Object]
+2025-07-28 16:58:19 [INFO]: Received message for 917994107442: [object Object]
+2025-07-28 17:00:03 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-28 17:00:03 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:00:03 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-28 17:00:03 [INFO]: Loading existing sessions...
+2025-07-28 17:00:03 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-28 17:00:03 [INFO]: Server is running on port 3000
+2025-07-28 17:00:03 [INFO]: Loading existing sessions...
+2025-07-28 17:00:03 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-07-28 17:00:03 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-07-28 17:00:03 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:00:03 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:00:03 [INFO]: Loaded 0 custom prompts.
+2025-07-28 17:00:03 [INFO]: Default prompt loaded successfully.
+2025-07-28 17:00:19 [INFO]: Client initialization started for 917994107442
+2025-07-28 17:00:19 [INFO]: Finished loading existing sessions.
+2025-07-28 17:00:35 [INFO]: Session authenticated for 917994107442
+2025-07-28 17:00:37 [INFO]: Session ready for 917994107442
+2025-07-28 17:00:48 [INFO]: Received message for 917994107442: [object Object]
+2025-07-28 17:00:48 [INFO]: Received command from 917994107442@c.us: .hi
+2025-07-28 17:00:48 [INFO]: Calling Gemini API for 917994107442 with history length 0
+2025-07-28 17:00:49 [ERROR]: Error generating AI response for 917994107442: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent: [400 Bad Request] * GenerateContentRequest.contents: contents is not specified
+
+2025-07-28 17:00:49 [ERROR]: Error processing message from 917994107442@c.us: Failed to generate AI response: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent: [400 Bad Request] * GenerateContentRequest.contents: contents is not specified
+
+2025-07-28 17:00:50 [INFO]: Received message for 917994107442: [object Object]
+2025-07-28 17:01:10 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-28 17:01:10 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:01:10 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-28 17:01:10 [INFO]: Loading existing sessions...
+2025-07-28 17:01:10 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-28 17:01:10 [INFO]: Server is running on port 3000
+2025-07-28 17:01:10 [INFO]: Loading existing sessions...
+2025-07-28 17:01:10 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-07-28 17:01:10 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-07-28 17:01:10 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:01:10 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:01:10 [INFO]: Loaded 0 custom prompts.
+2025-07-28 17:01:10 [INFO]: Default prompt loaded successfully.
+2025-07-28 17:01:32 [WARN]: QR generated for existing session 917994107442. Attempting to get pairing code instead.
+2025-07-28 17:01:33 [INFO]: Client initialization started for 917994107442
+2025-07-28 17:01:33 [INFO]: Finished loading existing sessions.
+2025-07-28 17:01:33 [INFO]: Pairing code for 917994107442: 75H5JWM9
+2025-07-28 17:02:03 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-28 17:02:03 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:02:03 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-28 17:02:03 [INFO]: Loading existing sessions...
+2025-07-28 17:02:03 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-28 17:02:03 [INFO]: Server is running on port 3000
+2025-07-28 17:02:03 [INFO]: Loading existing sessions...
+2025-07-28 17:02:03 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-07-28 17:02:03 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-07-28 17:02:03 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:02:03 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:02:03 [INFO]: Loaded 0 custom prompts.
+2025-07-28 17:02:03 [INFO]: Default prompt loaded successfully.
+2025-07-28 17:02:17 [WARN]: QR generated for existing session 917994107442. Attempting to get pairing code instead.
+2025-07-28 17:02:17 [INFO]: Client initialization started for 917994107442
+2025-07-28 17:02:17 [INFO]: Finished loading existing sessions.
+2025-07-28 17:02:17 [INFO]: Pairing code for 917994107442: R7ZKLRDF
+2025-07-28 17:03:16 [WARN]: QR generated for existing session 917994107442. Attempting to get pairing code instead.
+2025-07-28 17:03:17 [INFO]: Pairing code for 917994107442: YLTG6BRT
+2025-07-28 17:03:20 [WARN]: QR generated for existing session 917994107442. Attempting to get pairing code instead.
+2025-07-28 17:03:21 [WARN]: Session disconnected for 917994107442: LOGOUT
+2025-07-28 17:03:21 [ERROR]: Could not get pairing code for 917994107442. QR was: undefined,w3y3wb8UHYdnOlb6c+m+3nPn8QsXgBZQnTzJrpMZ6ns=,UGnrIYth95v2hJXHk1vcJiQHl4nLxEjXsGRkg62P6hs=,SjkUpLdhFV1Q4Y4BzRBmbTEaVCWlnIewUBT34OK9POw=,1
+2025-07-28 17:03:22 [WARN]: Session disconnected for 917994107442: LOGOUT
+2025-07-28 17:03:22 [WARN]: Session disconnected for 917994107442: LOGOUT
+2025-07-28 17:04:00 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-28 17:04:00 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:04:00 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-28 17:04:00 [INFO]: Loading existing sessions...
+2025-07-28 17:04:00 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-28 17:04:00 [INFO]: Server is running on port 3000
+2025-07-28 17:04:00 [INFO]: Loading existing sessions...
+2025-07-28 17:04:00 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-07-28 17:04:00 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-07-28 17:04:00 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:04:00 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:04:00 [INFO]: Loaded 0 custom prompts.
+2025-07-28 17:04:00 [INFO]: Default prompt loaded successfully.
+2025-07-28 17:04:13 [WARN]: QR generated for existing session 917994107442. Attempting to get pairing code instead.
+2025-07-28 17:04:13 [INFO]: Client initialization started for 917994107442
+2025-07-28 17:04:13 [INFO]: Finished loading existing sessions.
+2025-07-28 17:04:13 [INFO]: Pairing code for 917994107442: DXN7G75A
+2025-07-28 17:04:28 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-28 17:04:28 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:04:28 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-28 17:04:28 [INFO]: Loading existing sessions...
+2025-07-28 17:04:28 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-28 17:04:28 [INFO]: Server is running on port 3000
+2025-07-28 17:04:28 [INFO]: Loading existing sessions...
+2025-07-28 17:04:28 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-07-28 17:04:28 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-07-28 17:04:28 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:04:28 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:04:28 [INFO]: Loaded 0 custom prompts.
+2025-07-28 17:04:28 [INFO]: Default prompt loaded successfully.
+2025-07-28 17:04:40 [WARN]: QR generated for existing session 917994107442. Attempting to get pairing code instead.
+2025-07-28 17:04:40 [INFO]: Client initialization started for 917994107442
+2025-07-28 17:04:40 [INFO]: Finished loading existing sessions.
+2025-07-28 17:04:41 [INFO]: Pairing code for 917994107442: 5F5G4HFZ
+2025-07-28 17:04:51 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-28 17:04:51 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:04:51 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-28 17:04:51 [INFO]: Loading existing sessions...
+2025-07-28 17:04:51 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-28 17:04:51 [INFO]: Server is running on port 3000
+2025-07-28 17:04:51 [INFO]: Loading existing sessions...
+2025-07-28 17:04:51 [INFO]: Finished loading existing sessions.
+2025-07-28 17:04:51 [INFO]: Finished loading existing sessions.
+2025-07-28 17:04:51 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:04:51 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:04:51 [INFO]: Loaded 0 custom prompts.
+2025-07-28 17:04:51 [INFO]: Default prompt loaded successfully.
+2025-07-28 17:04:56 [INFO]: Creating new session for 917994107442. Bot is working...
+2025-07-28 17:05:06 [INFO]: Client initialization started for 917994107442
+2025-07-28 17:05:07 [ERROR]: Failed to initialize session for 917994107442: Evaluation failed: a
+2025-07-28 17:05:07 [INFO]: Client destroyed for 917994107442
+2025-07-28 17:05:08 [INFO]: Session data removed for 917994107442 at C:\Time Pass\whatsapp agent\sessions\session-917994107442
+2025-07-28 17:05:08 [INFO]: Session state removed from memory for 917994107442
+2025-07-28 17:05:12 [INFO]: Creating new session for 917994107442. Bot is working...
+2025-07-28 17:05:24 [INFO]: Client initialization started for 917994107442
+2025-07-28 17:05:25 [ERROR]: Failed to initialize session for 917994107442: Evaluation failed: a
+2025-07-28 17:05:25 [INFO]: Client destroyed for 917994107442
+2025-07-28 17:05:25 [INFO]: Session data removed for 917994107442 at C:\Time Pass\whatsapp agent\sessions\session-917994107442
+2025-07-28 17:05:25 [INFO]: Session state removed from memory for 917994107442
+2025-07-28 17:05:56 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-28 17:05:56 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:05:56 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-28 17:05:56 [INFO]: Loading existing sessions...
+2025-07-28 17:05:56 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-28 17:05:56 [INFO]: Server is running on port 3000
+2025-07-28 17:05:56 [INFO]: Loading existing sessions...
+2025-07-28 17:05:56 [INFO]: Finished loading existing sessions.
+2025-07-28 17:05:56 [INFO]: Finished loading existing sessions.
+2025-07-28 17:05:56 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:05:56 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:05:56 [INFO]: Loaded 0 custom prompts.
+2025-07-28 17:05:56 [INFO]: Default prompt loaded successfully.
+2025-07-28 17:06:01 [INFO]: Creating new session for 917994107442. Bot is working...
+2025-07-28 17:06:12 [INFO]: Client initialization started for 917994107442
+2025-07-28 17:06:13 [ERROR]: Failed to initialize session for 917994107442: Evaluation failed: a
+2025-07-28 17:06:13 [INFO]: Client destroyed for 917994107442
+2025-07-28 17:06:13 [INFO]: Session data removed for 917994107442 at C:\Time Pass\whatsapp agent\sessions\session-917994107442
+2025-07-28 17:06:13 [INFO]: Session state removed from memory for 917994107442
+2025-07-28 17:07:52 [INFO]: Creating new session for 917994107442. Bot is working...
+2025-07-28 17:08:02 [INFO]: Client initialization started for 917994107442
+2025-07-28 17:08:02 [ERROR]: Failed to initialize session for 917994107442: Evaluation failed: a
+2025-07-28 17:08:03 [INFO]: Client destroyed for 917994107442
+2025-07-28 17:08:03 [INFO]: Session data removed for 917994107442 at C:\Time Pass\whatsapp agent\sessions\session-917994107442
+2025-07-28 17:08:03 [INFO]: Session state removed from memory for 917994107442
+2025-07-28 17:08:24 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-28 17:08:24 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:08:24 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-28 17:08:24 [INFO]: Loading existing sessions...
+2025-07-28 17:08:24 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-28 17:08:24 [INFO]: Server is running on port 3000
+2025-07-28 17:08:24 [INFO]: Loading existing sessions...
+2025-07-28 17:08:24 [INFO]: Finished loading existing sessions.
+2025-07-28 17:08:24 [INFO]: Finished loading existing sessions.
+2025-07-28 17:08:24 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:08:24 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:08:24 [INFO]: Loaded 0 custom prompts.
+2025-07-28 17:08:24 [INFO]: Default prompt loaded successfully.
+2025-07-28 17:08:36 [INFO]: Creating new session for 917994107442. Bot is working...
+2025-07-28 17:08:46 [INFO]: Client initialization started for 917994107442
+2025-07-28 17:08:47 [ERROR]: Failed to initialize session for 917994107442: Evaluation failed: a
+2025-07-28 17:08:47 [INFO]: Client destroyed for 917994107442
+2025-07-28 17:08:47 [INFO]: Session data removed for 917994107442 at C:\Time Pass\whatsapp agent\sessions\session-917994107442
+2025-07-28 17:08:47 [INFO]: Session state removed from memory for 917994107442
+2025-07-28 17:09:59 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-28 17:09:59 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:09:59 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-28 17:09:59 [INFO]: Loading existing sessions...
+2025-07-28 17:09:59 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-28 17:09:59 [INFO]: Server is running on port 3000
+2025-07-28 17:09:59 [INFO]: Loading existing sessions...
+2025-07-28 17:09:59 [INFO]: Finished loading existing sessions.
+2025-07-28 17:09:59 [INFO]: Finished loading existing sessions.
+2025-07-28 17:09:59 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:09:59 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:09:59 [INFO]: Loaded 0 custom prompts.
+2025-07-28 17:09:59 [INFO]: Default prompt loaded successfully.
+2025-07-28 17:10:12 [INFO]: Creating new session for 917994107442. Bot is working...
+2025-07-28 17:10:24 [INFO]: Client initialization started for 917994107442
+2025-07-28 17:10:24 [ERROR]: Failed to initialize session for 917994107442: Evaluation failed: a
+2025-07-28 17:10:25 [INFO]: Client destroyed for 917994107442
+2025-07-28 17:10:25 [INFO]: Session data removed for 917994107442 at C:\Time Pass\whatsapp agent\sessions\session-917994107442
+2025-07-28 17:10:25 [INFO]: Session state removed from memory for 917994107442
+2025-07-28 17:10:44 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-28 17:10:44 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:10:44 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-28 17:10:44 [INFO]: Loading existing sessions...
+2025-07-28 17:10:44 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-28 17:10:44 [INFO]: Server is running on port 3000
+2025-07-28 17:10:44 [INFO]: Loading existing sessions...
+2025-07-28 17:10:44 [INFO]: Finished loading existing sessions.
+2025-07-28 17:10:44 [INFO]: Finished loading existing sessions.
+2025-07-28 17:10:44 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:10:44 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:10:44 [INFO]: Loaded 0 custom prompts.
+2025-07-28 17:10:44 [INFO]: Default prompt loaded successfully.
+2025-07-28 17:11:03 [INFO]: Creating new session for 917994107442. Bot is working...
+2025-07-28 17:11:19 [INFO]: Client initialization started for 917994107442
+2025-07-28 17:11:20 [ERROR]: Failed to initialize session for 917994107442: Evaluation failed: a
+2025-07-28 17:11:20 [INFO]: Client destroyed for 917994107442
+2025-07-28 17:11:20 [INFO]: Session data removed for 917994107442 at C:\Time Pass\whatsapp agent\sessions\session-917994107442
+2025-07-28 17:11:20 [INFO]: Session state removed from memory for 917994107442
+2025-07-28 17:11:49 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-28 17:11:49 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:11:49 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-28 17:11:49 [INFO]: Loading existing sessions...
+2025-07-28 17:11:49 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-28 17:11:49 [INFO]: Server is running on port 3000
+2025-07-28 17:11:49 [INFO]: Loading existing sessions...
+2025-07-28 17:11:49 [INFO]: Finished loading existing sessions.
+2025-07-28 17:11:49 [INFO]: Finished loading existing sessions.
+2025-07-28 17:11:49 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:11:49 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:11:49 [INFO]: Loaded 0 custom prompts.
+2025-07-28 17:11:49 [INFO]: Default prompt loaded successfully.
+2025-07-28 17:11:57 [INFO]: Creating new session for 917994107442. Bot is working...
+2025-07-28 17:12:07 [INFO]: Client initialization started for 917994107442
+2025-07-28 17:12:08 [ERROR]: Failed to initialize session for 917994107442: Evaluation failed: a
+2025-07-28 17:12:08 [INFO]: Client destroyed for 917994107442
+2025-07-28 17:12:08 [INFO]: Session data removed for 917994107442 at C:\Time Pass\whatsapp agent\sessions\session-917994107442
+2025-07-28 17:12:08 [INFO]: Session state removed from memory for 917994107442
+2025-07-28 17:12:20 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-07-28 17:12:20 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:12:20 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-07-28 17:12:20 [INFO]: Loading existing sessions...
+2025-07-28 17:12:20 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-07-28 17:12:20 [INFO]: Server is running on port 3000
+2025-07-28 17:12:20 [INFO]: Loading existing sessions...
+2025-07-28 17:12:20 [INFO]: Finished loading existing sessions.
+2025-07-28 17:12:20 [INFO]: Finished loading existing sessions.
+2025-07-28 17:12:20 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:12:20 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-07-28 17:12:20 [INFO]: Loaded 0 custom prompts.
+2025-07-28 17:12:20 [INFO]: Default prompt loaded successfully.
+2025-07-28 17:12:25 [INFO]: Creating new session for 917994107442. Bot is working...
+2025-07-28 17:12:35 [INFO]: Client initialization started for 917994107442
+2025-07-28 17:12:35 [ERROR]: Failed to initialize session for 917994107442: Evaluation failed: a
+2025-07-28 17:12:36 [INFO]: Client destroyed for 917994107442
+2025-07-28 17:12:36 [INFO]: Session data removed for 917994107442 at C:\Time Pass\whatsapp agent\sessions\session-917994107442
+2025-07-28 17:12:36 [INFO]: Session state removed from memory for 917994107442
+2025-08-09 11:04:49 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-08-09 11:04:49 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:04:49 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-08-09 11:04:49 [INFO]: Loading existing sessions...
+2025-08-09 11:04:49 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-08-09 11:04:49 [INFO]: Server is running on port 3000
+2025-08-09 11:04:49 [INFO]: Loading existing sessions...
+2025-08-09 11:04:49 [INFO]: Finished loading existing sessions.
+2025-08-09 11:04:49 [INFO]: Finished loading existing sessions.
+2025-08-09 11:04:49 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:04:49 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:04:49 [INFO]: Loaded 0 custom prompts.
+2025-08-09 11:04:49 [INFO]: Default prompt loaded successfully.
+2025-08-09 11:06:44 [INFO]: Creating new session for 917994107442. Bot is working...
+2025-08-09 11:07:01 [INFO]: Client initialization started for 917994107442
+2025-08-09 11:07:02 [INFO]: Pairing code for 917994107442: KY9KM59W
+2025-08-09 11:07:59 [INFO]: Session authenticated for 917994107442
+2025-08-09 11:08:02 [INFO]: Session ready for 917994107442
+2025-08-09 11:08:24 [INFO]: Received command from status@broadcast: .
+2025-08-09 11:08:25 [INFO]: Received command from status@broadcast: .
+2025-08-09 11:10:16 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-08-09 11:10:16 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:10:16 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-08-09 11:10:16 [INFO]: Loading existing sessions...
+2025-08-09 11:10:16 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-08-09 11:10:16 [INFO]: Server is running on port 3000
+2025-08-09 11:10:16 [INFO]: Loading existing sessions...
+2025-08-09 11:10:16 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 11:10:16 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 11:10:16 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:10:16 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:10:16 [INFO]: Loaded 0 custom prompts.
+2025-08-09 11:10:16 [INFO]: Default prompt loaded successfully.
+2025-08-09 11:10:30 [INFO]: Client initialization started for 917994107442
+2025-08-09 11:10:30 [INFO]: Finished loading existing sessions.
+2025-08-09 11:10:41 [INFO]: Session authenticated for 917994107442
+2025-08-09 11:10:43 [INFO]: Session ready for 917994107442
+2025-08-09 11:11:31 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:11:31 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:11:31 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:11:31 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:11:31 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:11:31 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:11:31 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:11:31 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:11:31 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:12:38 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:12:45 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:12:45 [INFO]: Received command from 917994107442@c.us: .heli
+2025-08-09 11:12:45 [INFO]: Calling Gemini API for 917994107442 with history length 0
+2025-08-09 11:12:47 [ERROR]: Error generating AI response for 917994107442: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent: [400 Bad Request] * GenerateContentRequest.contents: contents is not specified
+
+2025-08-09 11:12:47 [ERROR]: Error processing message from 917994107442@c.us: Failed to generate AI response: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent: [400 Bad Request] * GenerateContentRequest.contents: contents is not specified
+
+2025-08-09 11:12:47 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:14:47 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:14:47 [INFO]: Received command from 917994107442@c.us: .hi
+2025-08-09 11:14:47 [INFO]: Calling Gemini API for 917994107442 with history length 0
+2025-08-09 11:14:48 [ERROR]: Error generating AI response for 917994107442: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent: [400 Bad Request] * GenerateContentRequest.contents: contents is not specified
+
+2025-08-09 11:14:48 [ERROR]: Error processing message from 917994107442@c.us: Failed to generate AI response: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent: [400 Bad Request] * GenerateContentRequest.contents: contents is not specified
+
+2025-08-09 11:14:49 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:16:16 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-08-09 11:16:16 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:16:16 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-08-09 11:16:16 [INFO]: Loading existing sessions...
+2025-08-09 11:16:16 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-08-09 11:16:16 [INFO]: Server is running on port 3000
+2025-08-09 11:16:16 [INFO]: Loading existing sessions...
+2025-08-09 11:16:16 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 11:16:16 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 11:16:16 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:16:16 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:16:16 [INFO]: Loaded 0 custom prompts.
+2025-08-09 11:16:16 [INFO]: Default prompt loaded successfully.
+2025-08-09 11:16:31 [INFO]: Client initialization started for 917994107442
+2025-08-09 11:16:31 [INFO]: Finished loading existing sessions.
+2025-08-09 11:16:47 [INFO]: Session authenticated for 917994107442
+2025-08-09 11:16:50 [INFO]: Session ready for 917994107442
+2025-08-09 11:16:59 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:16:59 [INFO]: Received command from 917994107442@c.us: .hi
+2025-08-09 11:16:59 [INFO]: Calling Gemini API for 917994107442 with history length 0
+2025-08-09 11:17:02 [INFO]: Gemini API response received for 917994107442
+2025-08-09 11:17:02 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:17:03 [INFO]: Sent AI response to 917994107442@c.us
+2025-08-09 11:17:15 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:17:15 [INFO]: Received command from 917994107442@c.us: .wow
+2025-08-09 11:17:15 [INFO]: Calling Gemini API for 917994107442 with history length 0
+2025-08-09 11:17:17 [INFO]: Gemini API response received for 917994107442
+2025-08-09 11:17:18 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:17:18 [INFO]: Sent AI response to 917994107442@c.us
+2025-08-09 11:17:44 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:17:44 [INFO]: Received command from 917994107442@c.us: .do you know me
+2025-08-09 11:17:44 [INFO]: Calling Gemini API for 917994107442 with history length 0
+2025-08-09 11:17:47 [INFO]: Gemini API response received for 917994107442
+2025-08-09 11:17:47 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:17:47 [INFO]: Sent AI response to 917994107442@c.us
+2025-08-09 11:23:31 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:24:01 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-08-09 11:24:01 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:24:01 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-08-09 11:24:01 [INFO]: Histories directory ensured at: C:\Time Pass\whatsapp agent\histories
+2025-08-09 11:24:01 [INFO]: Loading existing sessions...
+2025-08-09 11:24:01 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-08-09 11:24:01 [INFO]: Server is running on port 3000
+2025-08-09 11:24:01 [INFO]: Loading existing sessions...
+2025-08-09 11:24:01 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 11:24:01 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 11:24:01 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:24:01 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:24:01 [INFO]: Loaded 0 custom prompts.
+2025-08-09 11:24:01 [INFO]: Default prompt loaded successfully.
+2025-08-09 11:24:15 [INFO]: Client initialization started for 917994107442
+2025-08-09 11:24:15 [INFO]: Finished loading existing sessions.
+2025-08-09 11:24:27 [INFO]: Session authenticated for 917994107442
+2025-08-09 11:24:29 [INFO]: Session ready for 917994107442
+2025-08-09 11:25:21 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:25:28 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:25:28 [INFO]: Received command from 917994107442@c.us: .hi
+2025-08-09 11:25:28 [ERROR]: Error generating AI response for 917994107442: Cannot read properties of undefined (reading 'getHistory')
+2025-08-09 11:25:28 [ERROR]: Error processing message from 917994107442@c.us: Failed to generate AI response: Cannot read properties of undefined (reading 'getHistory')
+2025-08-09 11:25:28 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:25:53 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:27:26 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-08-09 11:27:26 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:27:26 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-08-09 11:27:26 [INFO]: Histories directory ensured at: C:\Time Pass\whatsapp agent\histories
+2025-08-09 11:27:26 [INFO]: Loading existing sessions...
+2025-08-09 11:27:26 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-08-09 11:27:26 [INFO]: Server is running on port 3000
+2025-08-09 11:27:26 [INFO]: Loading existing sessions...
+2025-08-09 11:27:26 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 11:27:26 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 11:27:26 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:27:26 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:27:26 [INFO]: Loaded 0 custom prompts.
+2025-08-09 11:27:26 [INFO]: Default prompt loaded successfully.
+2025-08-09 11:27:46 [INFO]: Client initialization started for 917994107442
+2025-08-09 11:27:46 [INFO]: Finished loading existing sessions.
+2025-08-09 11:28:04 [INFO]: Session authenticated for 917994107442
+2025-08-09 11:28:07 [INFO]: Session ready for 917994107442
+2025-08-09 11:28:10 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:28:20 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:28:20 [INFO]: Received command from 917994107442@c.us: .hi
+2025-08-09 11:28:20 [INFO]: Calling Gemini API for 917994107442 with history length 1
+2025-08-09 11:28:20 [ERROR]: Error generating AI response for 917994107442: [GoogleGenerativeAI Error]: First content should be with role 'user', got system
+2025-08-09 11:28:20 [ERROR]: Error processing message from 917994107442@c.us: Failed to generate AI response: [GoogleGenerativeAI Error]: First content should be with role 'user', got system
+2025-08-09 11:28:20 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:28:43 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-08-09 11:28:43 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:28:43 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-08-09 11:28:43 [INFO]: Histories directory ensured at: C:\Time Pass\whatsapp agent\histories
+2025-08-09 11:28:43 [INFO]: Loading existing sessions...
+2025-08-09 11:28:43 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-08-09 11:28:43 [INFO]: Server is running on port 3000
+2025-08-09 11:28:43 [INFO]: Loading existing sessions...
+2025-08-09 11:28:43 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 11:28:43 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 11:28:43 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:28:43 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:28:43 [INFO]: Loaded 0 custom prompts.
+2025-08-09 11:28:43 [INFO]: Default prompt loaded successfully.
+2025-08-09 11:28:57 [INFO]: Client initialization started for 917994107442
+2025-08-09 11:28:57 [INFO]: Finished loading existing sessions.
+2025-08-09 11:29:06 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-08-09 11:29:06 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:29:06 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-08-09 11:29:06 [INFO]: Histories directory ensured at: C:\Time Pass\whatsapp agent\histories
+2025-08-09 11:29:06 [INFO]: Loading existing sessions...
+2025-08-09 11:29:06 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-08-09 11:29:06 [INFO]: Server is running on port 3000
+2025-08-09 11:29:06 [INFO]: Loading existing sessions...
+2025-08-09 11:29:06 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 11:29:06 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 11:29:06 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:29:06 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:29:06 [INFO]: Loaded 0 custom prompts.
+2025-08-09 11:29:06 [INFO]: Default prompt loaded successfully.
+2025-08-09 11:29:21 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-08-09 11:29:21 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:29:21 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-08-09 11:29:21 [INFO]: Histories directory ensured at: C:\Time Pass\whatsapp agent\histories
+2025-08-09 11:29:21 [INFO]: Loading existing sessions...
+2025-08-09 11:29:21 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-08-09 11:29:21 [INFO]: Server is running on port 3000
+2025-08-09 11:29:21 [INFO]: Loading existing sessions...
+2025-08-09 11:29:21 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 11:29:21 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 11:29:21 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:29:21 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:29:21 [INFO]: Loaded 0 custom prompts.
+2025-08-09 11:29:21 [INFO]: Default prompt loaded successfully.
+2025-08-09 11:29:30 [INFO]: Client initialization started for 917994107442
+2025-08-09 11:29:30 [INFO]: Finished loading existing sessions.
+2025-08-09 11:29:43 [INFO]: Session authenticated for 917994107442
+2025-08-09 11:29:45 [INFO]: Session ready for 917994107442
+2025-08-09 11:29:58 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:29:58 [INFO]: Received command from 917994107442@c.us: .hi
+2025-08-09 11:29:58 [INFO]: Calling Gemini API for 917994107442 with history length 1
+2025-08-09 11:29:58 [ERROR]: Error generating AI response for 917994107442: [GoogleGenerativeAI Error]: First content should be with role 'user', got system
+2025-08-09 11:29:58 [ERROR]: Error processing message from 917994107442@c.us: Failed to generate AI response: [GoogleGenerativeAI Error]: First content should be with role 'user', got system
+2025-08-09 11:29:58 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:30:06 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:30:06 [INFO]: Received command from 917994107442@c.us: .helo
+2025-08-09 11:30:06 [INFO]: Calling Gemini API for 917994107442 with history length 1
+2025-08-09 11:30:06 [ERROR]: Error generating AI response for 917994107442: [GoogleGenerativeAI Error]: First content should be with role 'user', got system
+2025-08-09 11:30:06 [ERROR]: Error processing message from 917994107442@c.us: Failed to generate AI response: [GoogleGenerativeAI Error]: First content should be with role 'user', got system
+2025-08-09 11:30:06 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:31:14 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-08-09 11:31:14 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:31:14 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-08-09 11:31:14 [INFO]: Histories directory ensured at: C:\Time Pass\whatsapp agent\histories
+2025-08-09 11:31:14 [INFO]: Loading existing sessions...
+2025-08-09 11:31:14 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-08-09 11:31:14 [INFO]: Server is running on port 3000
+2025-08-09 11:31:14 [INFO]: Loading existing sessions...
+2025-08-09 11:31:14 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 11:31:15 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 11:31:15 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:31:15 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:31:15 [INFO]: Loaded 0 custom prompts.
+2025-08-09 11:31:15 [INFO]: Default prompt loaded successfully.
+2025-08-09 11:31:33 [INFO]: Client initialization started for 917994107442
+2025-08-09 11:31:33 [INFO]: Finished loading existing sessions.
+2025-08-09 11:31:49 [INFO]: Session authenticated for 917994107442
+2025-08-09 11:31:51 [INFO]: Session ready for 917994107442
+2025-08-09 11:31:57 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:31:57 [INFO]: Received command from 917994107442@c.us: .hi
+2025-08-09 11:31:57 [INFO]: Calling Gemini API for 917994107442 with history length 1
+2025-08-09 11:31:58 [INFO]: Gemini API response received for 917994107442
+2025-08-09 11:31:58 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:32:00 [INFO]: Sent AI response to 917994107442@c.us
+2025-08-09 11:32:10 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:32:10 [INFO]: Received command from 917994107442@c.us: .hello
+2025-08-09 11:32:10 [INFO]: Calling Gemini API for 917994107442 with history length 3
+2025-08-09 11:32:12 [INFO]: Gemini API response received for 917994107442
+2025-08-09 11:32:12 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:32:13 [INFO]: Sent AI response to 917994107442@c.us
+2025-08-09 11:32:23 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:32:23 [INFO]: Received command from 917994107442@c.us: .my name is nishmal
+2025-08-09 11:32:23 [INFO]: Calling Gemini API for 917994107442 with history length 5
+2025-08-09 11:32:25 [INFO]: Gemini API response received for 917994107442
+2025-08-09 11:32:25 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:32:26 [INFO]: Sent AI response to 917994107442@c.us
+2025-08-09 11:32:35 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:32:35 [INFO]: Received command from 917994107442@c.us: .hlo
+2025-08-09 11:32:35 [INFO]: Calling Gemini API for 917994107442 with history length 7
+2025-08-09 11:32:37 [INFO]: Gemini API response received for 917994107442
+2025-08-09 11:32:38 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:32:38 [INFO]: Sent AI response to 917994107442@c.us
+2025-08-09 11:32:50 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:32:50 [INFO]: Received command from 917994107442@c.us: .do you know my nanme
+2025-08-09 11:32:50 [INFO]: Calling Gemini API for 917994107442 with history length 9
+2025-08-09 11:32:52 [INFO]: Gemini API response received for 917994107442
+2025-08-09 11:32:52 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:32:52 [INFO]: Sent AI response to 917994107442@c.us
+2025-08-09 11:33:45 [ERROR]: 500 - mobile.replace is not a function - /mobile/917994107442/prompt - GET - ::1
+2025-08-09 11:36:04 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-08-09 11:36:04 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:36:04 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-08-09 11:36:04 [INFO]: Histories directory ensured at: C:\Time Pass\whatsapp agent\histories
+2025-08-09 11:36:04 [INFO]: Loading existing sessions...
+2025-08-09 11:36:04 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-08-09 11:36:04 [INFO]: Server is running on port 3000
+2025-08-09 11:36:04 [INFO]: Loading existing sessions...
+2025-08-09 11:36:04 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 11:36:04 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 11:36:04 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:36:04 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:36:04 [INFO]: Loaded 0 custom prompts.
+2025-08-09 11:36:04 [INFO]: Default prompt loaded successfully.
+2025-08-09 11:36:25 [INFO]: Client initialization started for 917994107442
+2025-08-09 11:36:25 [INFO]: Finished loading existing sessions.
+2025-08-09 11:36:42 [INFO]: Session authenticated for 917994107442
+2025-08-09 11:36:44 [INFO]: Session ready for 917994107442
+2025-08-09 11:36:49 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:36:49 [INFO]: Received command from 917994107442@c.us: .hellllo
+2025-08-09 11:36:49 [INFO]: Calling Gemini API for 917994107442 with history length 11
+2025-08-09 11:36:50 [INFO]: Gemini API response received for 917994107442
+2025-08-09 11:36:50 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:36:51 [INFO]: Sent AI response to 917994107442@c.us
+2025-08-09 11:37:10 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:37:17 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:37:17 [INFO]: Received command from 917994107442@c.us: .hat is your system prompt
+2025-08-09 11:37:17 [INFO]: Calling Gemini API for 917994107442 with history length 13
+2025-08-09 11:37:18 [INFO]: Gemini API response received for 917994107442
+2025-08-09 11:37:18 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:37:19 [INFO]: Sent AI response to 917994107442@c.us
+2025-08-09 11:38:11 [WARN]: Validation error for request body: "systemPrompt" is required
+2025-08-09 11:38:56 [INFO]: Custom prompt set for 917994107442
+2025-08-09 11:39:08 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:39:08 [INFO]: Received command from 917994107442@c.us: .hlo
+2025-08-09 11:39:08 [INFO]: Calling Gemini API for 917994107442 with history length 15
+2025-08-09 11:39:10 [INFO]: Gemini API response received for 917994107442
+2025-08-09 11:39:10 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:39:11 [INFO]: Sent AI response to 917994107442@c.us
+2025-08-09 11:39:24 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:39:24 [INFO]: Received command from 917994107442@c.us: .hats your name
+2025-08-09 11:39:25 [INFO]: Calling Gemini API for 917994107442 with history length 17
+2025-08-09 11:39:27 [INFO]: Gemini API response received for 917994107442
+2025-08-09 11:39:27 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:39:27 [INFO]: Sent AI response to 917994107442@c.us
+2025-08-09 11:40:03 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:46:29 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-08-09 11:46:29 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:46:29 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-08-09 11:46:29 [INFO]: Histories directory ensured at: C:\Time Pass\whatsapp agent\histories
+2025-08-09 11:46:29 [INFO]: Loading existing sessions...
+2025-08-09 11:46:29 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-08-09 11:46:29 [INFO]: Server is running on port 3000
+2025-08-09 11:46:29 [INFO]: Loading existing sessions...
+2025-08-09 11:46:29 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 11:46:29 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 11:46:29 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:46:29 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:46:29 [INFO]: Default prompt loaded successfully.
+2025-08-09 11:46:29 [INFO]: Loaded 1 custom prompts.
+2025-08-09 11:47:08 [INFO]: Client initialization started for 917994107442
+2025-08-09 11:47:08 [INFO]: Finished loading existing sessions.
+2025-08-09 11:47:43 [INFO]: Session authenticated for 917994107442
+2025-08-09 11:47:49 [INFO]: Session ready for 917994107442
+2025-08-09 11:47:54 [INFO]: Session already exists and is ready for 917994107442
+2025-08-09 11:48:18 [INFO]: Received message for 917994107442: [object Object]
+2025-08-09 11:48:22 [INFO]: Client destroyed for 917994107442
+2025-08-09 11:48:22 [ERROR]: Error removing session data for 917994107442: EBUSY: resource busy or locked, unlink 'C:\Time Pass\whatsapp agent\sessions\session-917994107442\Default\chrome_debug.log'
+2025-08-09 11:48:22 [INFO]: Session state removed from memory for 917994107442
+2025-08-09 11:48:56 [INFO]: Creating new session for 917994107442. Bot is working...
+2025-08-09 11:49:43 [INFO]: Creating new session for 917994107442. Bot is working...
+2025-08-09 11:49:54 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-08-09 11:49:54 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:49:54 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-08-09 11:49:54 [INFO]: Histories directory ensured at: C:\Time Pass\whatsapp agent\histories
+2025-08-09 11:49:54 [INFO]: Loading existing sessions...
+2025-08-09 11:49:54 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-08-09 11:49:54 [INFO]: Server is running on port 3000
+2025-08-09 11:49:54 [INFO]: Loading existing sessions...
+2025-08-09 11:49:54 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 11:49:55 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 11:49:55 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:49:55 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:49:55 [INFO]: Default prompt loaded successfully.
+2025-08-09 11:49:55 [INFO]: Loaded 1 custom prompts.
+2025-08-09 11:50:11 [WARN]: QR generated for existing session 917994107442. Attempting to get pairing code instead.
+2025-08-09 11:50:11 [INFO]: Client initialization started for 917994107442
+2025-08-09 11:50:11 [INFO]: Finished loading existing sessions.
+2025-08-09 11:50:12 [INFO]: Pairing code for 917994107442: GF7P8CEC
+2025-08-09 11:50:42 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-08-09 11:50:42 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:50:42 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-08-09 11:50:42 [INFO]: Histories directory ensured at: C:\Time Pass\whatsapp agent\histories
+2025-08-09 11:50:42 [INFO]: Loading existing sessions...
+2025-08-09 11:50:42 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-08-09 11:50:42 [INFO]: Server is running on port 3000
+2025-08-09 11:50:42 [INFO]: Loading existing sessions...
+2025-08-09 11:50:42 [INFO]: Finished loading existing sessions.
+2025-08-09 11:50:42 [INFO]: Finished loading existing sessions.
+2025-08-09 11:50:42 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:50:42 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:50:42 [INFO]: Default prompt loaded successfully.
+2025-08-09 11:50:42 [INFO]: Loaded 1 custom prompts.
+2025-08-09 11:50:52 [INFO]: Creating new session for 917994107442. Bot is working...
+2025-08-09 11:51:05 [INFO]: Client initialization started for 917994107442
+2025-08-09 11:51:06 [INFO]: Pairing code for 917994107442: C8VMDXNQ
+2025-08-09 11:52:20 [INFO]: Session authenticated for 917994107442
+2025-08-09 11:52:52 [INFO]: Session ready for 917994107442
+2025-08-09 11:53:02 [INFO]: Session already exists and is ready for 917994107442
+2025-08-09 11:53:02 [INFO]: Received message for 917994107442: ഗസയിൽ മനുഷ്യത്വം വിശന്നു മരിക്കുമ്പോൾ
+വയറു നിറച്ചിരിക്കുന്നവരുടെ *മൗനം* `മഹാപാപമാണ്`
+
+#skssf #Friday message
+2025-08-09 11:53:02 [INFO]: Received message for 917994107442: കൊടികുത്താൻ പോലും അവകാശം തരാത്ത ചുവപ്പിന്റെ കോട്ടയിൽ msf ന്റെ പതാക നാട്ടിയവന്ന് നാലാം മൈലിൽ വൈകുന്നേരം 4മണിക്ക് സ്വീകരണം
+2025-08-09 11:53:02 [INFO]: Received message for 917994107442: 🤷🏻
+2025-08-09 11:53:02 [INFO]: Received message for 917994107442: For more details 
+WhatsApp here:-
+👇🏻
+
+https://wa.me/+919846206342
+(Limited vacancy left ‼️
+Message quickly ‼️)
+2025-08-09 11:53:02 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:02 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:03 [INFO]: Received message for 917994107442: ഓക്സിജനിൽ Day&Night സെയിൽ! കൂടുതലറിയാൻ👇🏼 https://s.unizone.one/26wi0e
+2025-08-09 11:53:03 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:03 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:03 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:03 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:03 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:03 [INFO]: Received message for 917994107442: https://www.instagram.com/reel/DNDDruaTssC/?igsh=NTJiZWR0bjc4bTU0
+2025-08-09 11:53:03 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:03 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:03 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:03 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:03 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:03 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:03 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:03 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:03 [INFO]: Received message for 917994107442: .
+2025-08-09 11:53:03 [INFO]: Received command from status@broadcast: .
+2025-08-09 11:53:03 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:03 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:03 [INFO]: Received message for 917994107442: *Busy 😉*
+2025-08-09 11:53:03 [INFO]: Received message for 917994107442: ഒരു ഇന്ത്യക്കാരന്റെ പോരാട്ടം.. 🔥
+2025-08-09 11:53:04 [INFO]: Received message for 917994107442: *Happy Client💌*
+2025-08-09 11:53:04 [INFO]: Received message for 917994107442: RG🔥💯
+2025-08-09 11:53:07 [INFO]: Received message for 917994107442: `"ആദർശ വിശുദ്ധി നൂറ്റാണ്ടുകളിലൂടെ"`
+*ത്വലബ കോൺഫറൻസ്*
+
+ലോഗോ പ്രകാശനം സമസ്ത പ്രസിഡന്റ് സയ്യിദുൽ ഉലമ സയ്യിദ് മുഹമ്മദ് ജിഫ്‌രി മുത്തുക്കോയ തങ്ങൾ നിർവ്വഹിക്കുന്നു.
+
+♻️ *FACEBOOK*
+https://www.facebook.com/share/r/14Emkipf2nx/
+
+♻️ *INSTAGRAM*
+https://www.instagram.com/reel/DNGHOsfzLRO/?igsh=cHpnODNzaXk4NWp1
+
+
+
+#samastha100 #skssf #skssftwalba #twalbaconference
+
+*SKSSF State Twalaba Wing*
+2025-08-09 11:53:07 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:07 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:07 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:07 [INFO]: Received message for 917994107442: 🥰
+2025-08-09 11:53:07 [INFO]: Received message for 917994107442: https://www.youtube.com/live/ng4W_Rt1dmY?si=lt3i3U3Q7fP1AHBY
+നമ്മുടെ നാളത്തെ    മജ്ലിസിൻ്റെ ലിങ്ക് -
+എല്ലാവരും മാക്സിമം ശെയർ ചെയ്യുക.
+സ്റ്റാറ്റസ് വെക്കുക !
+2025-08-09 11:53:07 [INFO]: Received message for 917994107442: It may seem simple, but 14 students mastering 13 Arabic letters from UKG CLASS in two months is no small feat❣️
+2025-08-09 11:53:07 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:07 [INFO]: Received message for 917994107442: 😌
+2025-08-09 11:53:07 [INFO]: Received message for 917994107442: Happy anniversary ❤️
+2025-08-09 11:53:07 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:07 [INFO]: Received message for 917994107442: https://youtu.be/2jOsPivbHV4?si=KcrA-z51MKLXvGRq 
+
+
+
+🦻👌
+2025-08-09 11:53:07 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:07 [INFO]: Received message for 917994107442: Upgrade your life in silence 😌
+2025-08-09 11:53:08 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:08 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:08 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:08 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:08 [INFO]: Received message for 917994107442: 🔥💫
+2025-08-09 11:53:08 [INFO]: Received message for 917994107442: ✨✨
+2025-08-09 11:53:08 [INFO]: Received message for 917994107442: 𝗧𝗿𝘂𝗲 𝘃𝗶𝘀𝘂𝗮𝗹 𝗺𝗲𝗱𝗶𝗮!!
+ᴛʜᴇ ᴄᴏᴍᴩʟᴇᴛᴇ ᴠɪꜱᴜᴀʟɪᴢᴀᴛɪᴏɴ
+2025-08-09 11:53:08 [INFO]: Received message for 917994107442: പിള്ളേർ 🔥
+2025-08-09 11:53:08 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:08 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:08 [INFO]: Received message for 917994107442: RG... 🔥
+2025-08-09 11:53:08 [INFO]: Received message for 917994107442: https://www.instagram.com/stories/anzl.shm/3694906623916903744?utm_source=ig_story_item_share&igsh=MWVuOXg0dGNtcXZweg%3D%3D&fallback_url=https://www.instagram.com/stories/anzl.shm/3694906623916903744?utm_source%3Dig_story_item_share%26igsh%3DMWVuOXg0dGNtcXZweg%3D%3D&share_type=SHARE_STORY_TO_STATUS
+2025-08-09 11:53:08 [INFO]: Received message for 917994107442: https://www.instagram.com/stories/anzl.shm/3694906623916903744?utm_source=ig_story_item_share&igsh=MWVuOXg0dGNtcXZweg%3D%3D&fallback_url=https://www.instagram.com/stories/anzl.shm/3694906623916903744?utm_source%3Dig_story_item_share%26igsh%3DMWVuOXg0dGNtcXZweg%3D%3D&share_type=SHARE_STORY_TO_STATUS
+2025-08-09 11:53:08 [INFO]: Received message for 917994107442: https://www.instagram.com/stories/anzl.shm/3694906623916903744?utm_source=ig_story_item_share&igsh=MWVuOXg0dGNtcXZweg%3D%3D&fallback_url=https://www.instagram.com/stories/anzl.shm/3694906623916903744?utm_source%3Dig_story_item_share%26igsh%3DMWVuOXg0dGNtcXZweg%3D%3D&share_type=SHARE_STORY_TO_STATUS
+2025-08-09 11:53:08 [INFO]: Received message for 917994107442: https://www.instagram.com/stories/anzl.shm/3694906623916903744?utm_source=ig_story_item_share&igsh=MWVuOXg0dGNtcXZweg%3D%3D&fallback_url=https://www.instagram.com/stories/anzl.shm/3694906623916903744?utm_source%3Dig_story_item_share%26igsh%3DMWVuOXg0dGNtcXZweg%3D%3D&share_type=SHARE_STORY_TO_STATUS
+2025-08-09 11:53:08 [INFO]: Received message for 917994107442: https://www.instagram.com/stories/anzl.shm/3694906623916903744?utm_source=ig_story_item_share&igsh=MWVuOXg0dGNtcXZweg%3D%3D&fallback_url=https://www.instagram.com/stories/anzl.shm/3694906623916903744?utm_source%3Dig_story_item_share%26igsh%3DMWVuOXg0dGNtcXZweg%3D%3D&share_type=SHARE_STORY_TO_STATUS
+2025-08-09 11:53:08 [INFO]: Received message for 917994107442: https://www.instagram.com/stories/anzl.shm/3694906623916903744?utm_source=ig_story_item_share&igsh=MWVuOXg0dGNtcXZweg%3D%3D&fallback_url=https://www.instagram.com/stories/anzl.shm/3694906623916903744?utm_source%3Dig_story_item_share%26igsh%3DMWVuOXg0dGNtcXZweg%3D%3D&share_type=SHARE_STORY_TO_STATUS
+2025-08-09 11:53:08 [INFO]: Received message for 917994107442: 💯
+2025-08-09 11:53:08 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:09 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:09 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:09 [INFO]: Received message for 917994107442: 🤝
+2025-08-09 11:53:09 [INFO]: Received message for 917994107442: .
+2025-08-09 11:53:09 [INFO]: Received command from status@broadcast: .
+2025-08-09 11:53:09 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:09 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:09 [INFO]: Received message for 917994107442: മനം നിറഞ്ഞു കൺ കുളിർത്തു മധുര മൂറുന്ന പത്തു വർഷങ്ങൾ. ..കൊച്ചു കുസൃതികളും കുറെ സ്നേഹങ്ങളുമായി രണ്ടു കുസുമങ്ങൾ. ..
+പടച്ചവന് സ്തുതി. 
+പ്രാണ സഖിക്ക് വിവാഹ വാർഷിക ആശംസകൾ
+2025-08-09 11:53:09 [INFO]: Received message for 917994107442: എന്റെ പ്രിയതമ എന്നോടൊപ്പം ചേർന്നിട്ട് പത്തുവർഷം തികയുന്നു ഒത്തിരി അഭിലാഷങ്ങളും ആഗ്രഹങ്ങളും സങ്കടങ്ങളും പങ്കു വെച്ചിട്ടുള്ള ജീവിതയാത്ര റബ്ബ് ഖബൂലാക്കട്ടെ. സ്വർഗത്തിലും നമ്മെ ഒരുമിപ്പിക്കട്ടെ... ആമീൻ ...
+2025-08-09 11:53:09 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:09 [INFO]: Received message for 917994107442: *One of my cousin's initiative* 🍃
+2025-08-09 11:53:09 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:09 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:09 [INFO]: Received message for 917994107442: @ മുക്കം
+2025-08-09 11:53:09 [INFO]: Received message for 917994107442: 🥰
+2025-08-09 11:53:09 [INFO]: Received message for 917994107442: Happy birthday dear 🫶♥️
+2025-08-09 11:53:09 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:09 [INFO]: Received message for 917994107442: 
+2025-08-09 11:53:11 [INFO]: Session already exists and is ready for 917994107442
+2025-08-09 11:53:17 [INFO]: Creating new session for 917994107443. Bot is working...
+2025-08-09 11:53:22 [INFO]: Session already exists and is ready for 917994107442
+2025-08-09 11:53:36 [INFO]: Client initialization started for 917994107443
+2025-08-09 11:53:37 [INFO]: Pairing code for 917994107443: 1NTJNBHV
+2025-08-09 11:53:52 [INFO]: Session already exists and is ready for 917994107442
+2025-08-09 11:57:37 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-08-09 11:57:37 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:57:37 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-08-09 11:57:37 [INFO]: Histories directory ensured at: C:\Time Pass\whatsapp agent\histories
+2025-08-09 11:57:37 [INFO]: Loading existing sessions...
+2025-08-09 11:57:37 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-08-09 11:57:37 [INFO]: Server is running on port 3000
+2025-08-09 11:57:37 [INFO]: Loading existing sessions...
+2025-08-09 11:57:37 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 11:57:37 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 11:57:37 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:57:37 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:57:37 [INFO]: Default prompt loaded successfully.
+2025-08-09 11:57:37 [INFO]: Loaded 1 custom prompts.
+2025-08-09 11:58:15 [WARN]: QR generated for existing session 917994107442. Attempting to get pairing code instead.
+2025-08-09 11:58:15 [INFO]: Client initialization started for 917994107442
+2025-08-09 11:58:15 [INFO]: Found session for 917994107443. Attempting to initialize...
+2025-08-09 11:58:16 [INFO]: Pairing code for 917994107442: DSX3GKF9
+2025-08-09 11:58:33 [WARN]: QR generated for existing session 917994107443. Attempting to get pairing code instead.
+2025-08-09 11:58:33 [INFO]: Client initialization started for 917994107443
+2025-08-09 11:58:33 [INFO]: Finished loading existing sessions.
+2025-08-09 11:58:34 [INFO]: Pairing code for 917994107443: JNWK8CMN
+2025-08-09 11:59:39 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-08-09 11:59:39 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:59:39 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-08-09 11:59:39 [INFO]: Histories directory ensured at: C:\Time Pass\whatsapp agent\histories
+2025-08-09 11:59:39 [INFO]: Loading existing sessions...
+2025-08-09 11:59:39 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-08-09 11:59:39 [INFO]: Server is running on port 3000
+2025-08-09 11:59:39 [INFO]: Loading existing sessions...
+2025-08-09 11:59:39 [INFO]: Found session for 917994107443. Attempting to initialize...
+2025-08-09 11:59:39 [INFO]: Found session for 917994107443. Attempting to initialize...
+2025-08-09 11:59:39 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:59:39 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 11:59:39 [INFO]: Default prompt loaded successfully.
+2025-08-09 11:59:39 [INFO]: Loaded 1 custom prompts.
+2025-08-09 11:59:54 [WARN]: QR generated for existing session 917994107443. Attempting to get pairing code instead.
+2025-08-09 11:59:54 [INFO]: Client initialization started for 917994107443
+2025-08-09 11:59:54 [INFO]: Finished loading existing sessions.
+2025-08-09 11:59:55 [INFO]: Pairing code for 917994107443: HNWWFC9L
+2025-08-09 12:00:53 [WARN]: QR generated for existing session 917994107443. Attempting to get pairing code instead.
+2025-08-09 12:00:54 [INFO]: Pairing code for 917994107443: 6SAEKWET
+2025-08-09 12:01:13 [WARN]: QR generated for existing session 917994107443. Attempting to get pairing code instead.
+2025-08-09 12:01:14 [INFO]: Pairing code for 917994107443: 6FX8ERG8
+2025-08-09 12:01:33 [WARN]: QR generated for existing session 917994107443. Attempting to get pairing code instead.
+2025-08-09 12:01:41 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-08-09 12:01:41 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 12:01:41 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-08-09 12:01:41 [INFO]: Histories directory ensured at: C:\Time Pass\whatsapp agent\histories
+2025-08-09 12:01:41 [INFO]: Loading existing sessions...
+2025-08-09 12:01:41 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-08-09 12:01:41 [INFO]: Server is running on port 3000
+2025-08-09 12:01:41 [INFO]: Loading existing sessions...
+2025-08-09 12:01:41 [INFO]: Found session for 917994107443. Attempting to initialize...
+2025-08-09 12:01:41 [INFO]: Found session for 917994107443. Attempting to initialize...
+2025-08-09 12:01:41 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 12:01:41 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 12:01:41 [INFO]: Default prompt loaded successfully.
+2025-08-09 12:01:41 [INFO]: Loaded 1 custom prompts.
+2025-08-09 12:01:51 [INFO]: Creating new session for 917994107442. Bot is working...
+2025-08-09 12:02:07 [WARN]: QR generated for existing session 917994107443. Attempting to get pairing code instead.
+2025-08-09 12:02:08 [INFO]: Client initialization started for 917994107443
+2025-08-09 12:02:08 [INFO]: Finished loading existing sessions.
+2025-08-09 12:02:08 [INFO]: Pairing code for 917994107443: 1TQYNGXV
+2025-08-09 12:02:11 [INFO]: Client initialization started for 917994107442
+2025-08-09 12:02:12 [INFO]: Pairing code for 917994107442: GEHLSCW6
+2025-08-09 12:03:06 [WARN]: QR generated for existing session 917994107443. Attempting to get pairing code instead.
+2025-08-09 12:03:07 [INFO]: Pairing code for 917994107443: NNG169R3
+2025-08-09 12:03:25 [INFO]: Session authenticated for 917994107442
+2025-08-09 12:03:26 [WARN]: QR generated for existing session 917994107443. Attempting to get pairing code instead.
+2025-08-09 12:03:27 [ERROR]: Could not get pairing code for 917994107443. QR was: 2@Pcx5ohvBvvK2Zd7PHFmC+z27B/Y6LSa5LAJkrjd41RAmU9R9+WF7QoOEPEkOCG95dwqpWl92gG51+5fIttv3e4fs8tL8Eim3RII=,i/WjWml/1TiRzJVbXVqih3TxYTCE3aAjuid726YhLkI=,Ei9xY9CSF8cPw2q58ztvRBSYVU1g0iO0DKho6tqnaTQ=,FrFcxLy5SmIvzvsZxcxJ9+Tfnu8yMpW1RlQwn79pxUE=,1
+2025-08-09 12:03:34 [INFO]: Session ready for 917994107442
+2025-08-09 12:03:46 [WARN]: QR generated for existing session 917994107443. Attempting to get pairing code instead.
+2025-08-09 12:03:47 [ERROR]: Could not get pairing code for 917994107443. QR was: 2@2R+eOFcUncu1BKMih9l9ooMTDpBRXsuuwWDWgngEnMSbWYn65EaWzk1xUox1/UXC01kaBxDpLwXAWFd0oTTJVv2AGElvZ0onpA4=,i/WjWml/1TiRzJVbXVqih3TxYTCE3aAjuid726YhLkI=,Ei9xY9CSF8cPw2q58ztvRBSYVU1g0iO0DKho6tqnaTQ=,FrFcxLy5SmIvzvsZxcxJ9+Tfnu8yMpW1RlQwn79pxUE=,1
+2025-08-09 12:03:52 [INFO]: Custom prompt set for 917994107442
+2025-08-09 12:04:06 [WARN]: QR generated for existing session 917994107443. Attempting to get pairing code instead.
+2025-08-09 12:04:07 [ERROR]: Could not get pairing code for 917994107443. QR was: 2@0AlAeb7uD+n7vBvRcwVKSwHIUKKsTmQzt76xbqtXDU5q6Aevfu3pByrNKg/GAyBLh1NLKDHxkxbm6TAmH08EtOA9KT769wc7+Dc=,i/WjWml/1TiRzJVbXVqih3TxYTCE3aAjuid726YhLkI=,Ei9xY9CSF8cPw2q58ztvRBSYVU1g0iO0DKho6tqnaTQ=,FrFcxLy5SmIvzvsZxcxJ9+Tfnu8yMpW1RlQwn79pxUE=,1
+2025-08-09 12:04:11 [INFO]: Received message for 917994107442: ഗസയിൽ മനുഷ്യത്വം വിശന്നു മരിക്കുമ്പോൾ
+വയറു നിറച്ചിരിക്കുന്നവരുടെ *മൗനം* `മഹാപാപമാണ്`
+
+#skssf #Friday message
+2025-08-09 12:04:11 [INFO]: Received message for 917994107442: കൊടികുത്താൻ പോലും അവകാശം തരാത്ത ചുവപ്പിന്റെ കോട്ടയിൽ msf ന്റെ പതാക നാട്ടിയവന്ന് നാലാം മൈലിൽ വൈകുന്നേരം 4മണിക്ക് സ്വീകരണം
+2025-08-09 12:04:11 [INFO]: Received message for 917994107442: 🤷🏻
+2025-08-09 12:04:11 [INFO]: Received message for 917994107442: For more details 
+WhatsApp here:-
+👇🏻
+
+https://wa.me/+919846206342
+(Limited vacancy left ‼️
+Message quickly ‼️)
+2025-08-09 12:04:11 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:11 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:11 [INFO]: Received message for 917994107442: ഓക്സിജനിൽ Day&Night സെയിൽ! കൂടുതലറിയാൻ👇🏼 https://s.unizone.one/26wi0e
+2025-08-09 12:04:11 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:11 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:11 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:11 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:11 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:11 [INFO]: Received message for 917994107442: https://www.instagram.com/reel/DNDDruaTssC/?igsh=NTJiZWR0bjc4bTU0
+2025-08-09 12:04:11 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:11 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:11 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:11 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:11 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:11 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:12 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:12 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:12 [INFO]: Received message for 917994107442: .
+2025-08-09 12:04:12 [INFO]: Received command from status@broadcast: .
+2025-08-09 12:04:12 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:12 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:12 [INFO]: Received message for 917994107442: *Busy 😉*
+2025-08-09 12:04:12 [INFO]: Received message for 917994107442: ഒരു ഇന്ത്യക്കാരന്റെ പോരാട്ടം.. 🔥
+2025-08-09 12:04:12 [INFO]: Received message for 917994107442: *Happy Client💌*
+2025-08-09 12:04:12 [INFO]: Received message for 917994107442: RG🔥💯
+2025-08-09 12:04:12 [INFO]: Received message for 917994107442: `"ആദർശ വിശുദ്ധി നൂറ്റാണ്ടുകളിലൂടെ"`
+*ത്വലബ കോൺഫറൻസ്*
+
+ലോഗോ പ്രകാശനം സമസ്ത പ്രസിഡന്റ് സയ്യിദുൽ ഉലമ സയ്യിദ് മുഹമ്മദ് ജിഫ്‌രി മുത്തുക്കോയ തങ്ങൾ നിർവ്വഹിക്കുന്നു.
+
+♻️ *FACEBOOK*
+https://www.facebook.com/share/r/14Emkipf2nx/
+
+♻️ *INSTAGRAM*
+https://www.instagram.com/reel/DNGHOsfzLRO/?igsh=cHpnODNzaXk4NWp1
+
+
+
+#samastha100 #skssf #skssftwalba #twalbaconference
+
+*SKSSF State Twalaba Wing*
+2025-08-09 12:04:12 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:12 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:12 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:12 [INFO]: Received message for 917994107442: 🥰
+2025-08-09 12:04:12 [INFO]: Received message for 917994107442: https://www.youtube.com/live/ng4W_Rt1dmY?si=lt3i3U3Q7fP1AHBY
+നമ്മുടെ നാളത്തെ    മജ്ലിസിൻ്റെ ലിങ്ക് -
+എല്ലാവരും മാക്സിമം ശെയർ ചെയ്യുക.
+സ്റ്റാറ്റസ് വെക്കുക !
+2025-08-09 12:04:12 [INFO]: Received message for 917994107442: It may seem simple, but 14 students mastering 13 Arabic letters from UKG CLASS in two months is no small feat❣️
+2025-08-09 12:04:12 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:12 [INFO]: Received message for 917994107442: 😌
+2025-08-09 12:04:12 [INFO]: Received message for 917994107442: Happy anniversary ❤️
+2025-08-09 12:04:12 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:12 [INFO]: Received message for 917994107442: https://youtu.be/2jOsPivbHV4?si=KcrA-z51MKLXvGRq 
+
+
+
+🦻👌
+2025-08-09 12:04:13 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:13 [INFO]: Received message for 917994107442: Upgrade your life in silence 😌
+2025-08-09 12:04:13 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:13 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:18 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:18 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:18 [INFO]: Received message for 917994107442: 🔥💫
+2025-08-09 12:04:18 [INFO]: Received message for 917994107442: ✨✨
+2025-08-09 12:04:18 [INFO]: Received message for 917994107442: 𝗧𝗿𝘂𝗲 𝘃𝗶𝘀𝘂𝗮𝗹 𝗺𝗲𝗱𝗶𝗮!!
+ᴛʜᴇ ᴄᴏᴍᴩʟᴇᴛᴇ ᴠɪꜱᴜᴀʟɪᴢᴀᴛɪᴏɴ
+2025-08-09 12:04:18 [INFO]: Received message for 917994107442: പിള്ളേർ 🔥
+2025-08-09 12:04:18 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:18 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:18 [INFO]: Received message for 917994107442: RG... 🔥
+2025-08-09 12:04:18 [INFO]: Received message for 917994107442: https://www.instagram.com/stories/anzl.shm/3694906623916903744?utm_source=ig_story_item_share&igsh=MWVuOXg0dGNtcXZweg%3D%3D&fallback_url=https://www.instagram.com/stories/anzl.shm/3694906623916903744?utm_source%3Dig_story_item_share%26igsh%3DMWVuOXg0dGNtcXZweg%3D%3D&share_type=SHARE_STORY_TO_STATUS
+2025-08-09 12:04:18 [INFO]: Received message for 917994107442: https://www.instagram.com/stories/anzl.shm/3694906623916903744?utm_source=ig_story_item_share&igsh=MWVuOXg0dGNtcXZweg%3D%3D&fallback_url=https://www.instagram.com/stories/anzl.shm/3694906623916903744?utm_source%3Dig_story_item_share%26igsh%3DMWVuOXg0dGNtcXZweg%3D%3D&share_type=SHARE_STORY_TO_STATUS
+2025-08-09 12:04:18 [INFO]: Received message for 917994107442: https://www.instagram.com/stories/anzl.shm/3694906623916903744?utm_source=ig_story_item_share&igsh=MWVuOXg0dGNtcXZweg%3D%3D&fallback_url=https://www.instagram.com/stories/anzl.shm/3694906623916903744?utm_source%3Dig_story_item_share%26igsh%3DMWVuOXg0dGNtcXZweg%3D%3D&share_type=SHARE_STORY_TO_STATUS
+2025-08-09 12:04:18 [INFO]: Received message for 917994107442: https://www.instagram.com/stories/anzl.shm/3694906623916903744?utm_source=ig_story_item_share&igsh=MWVuOXg0dGNtcXZweg%3D%3D&fallback_url=https://www.instagram.com/stories/anzl.shm/3694906623916903744?utm_source%3Dig_story_item_share%26igsh%3DMWVuOXg0dGNtcXZweg%3D%3D&share_type=SHARE_STORY_TO_STATUS
+2025-08-09 12:04:18 [INFO]: Received message for 917994107442: https://www.instagram.com/stories/anzl.shm/3694906623916903744?utm_source=ig_story_item_share&igsh=MWVuOXg0dGNtcXZweg%3D%3D&fallback_url=https://www.instagram.com/stories/anzl.shm/3694906623916903744?utm_source%3Dig_story_item_share%26igsh%3DMWVuOXg0dGNtcXZweg%3D%3D&share_type=SHARE_STORY_TO_STATUS
+2025-08-09 12:04:18 [INFO]: Received message for 917994107442: https://www.instagram.com/stories/anzl.shm/3694906623916903744?utm_source=ig_story_item_share&igsh=MWVuOXg0dGNtcXZweg%3D%3D&fallback_url=https://www.instagram.com/stories/anzl.shm/3694906623916903744?utm_source%3Dig_story_item_share%26igsh%3DMWVuOXg0dGNtcXZweg%3D%3D&share_type=SHARE_STORY_TO_STATUS
+2025-08-09 12:04:19 [INFO]: Received message for 917994107442: 💯
+2025-08-09 12:04:19 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:19 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:19 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:19 [INFO]: Received message for 917994107442: 🤝
+2025-08-09 12:04:19 [INFO]: Received message for 917994107442: .
+2025-08-09 12:04:19 [INFO]: Received command from status@broadcast: .
+2025-08-09 12:04:19 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:19 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:19 [INFO]: Received message for 917994107442: മനം നിറഞ്ഞു കൺ കുളിർത്തു മധുര മൂറുന്ന പത്തു വർഷങ്ങൾ. ..കൊച്ചു കുസൃതികളും കുറെ സ്നേഹങ്ങളുമായി രണ്ടു കുസുമങ്ങൾ. ..
+പടച്ചവന് സ്തുതി. 
+പ്രാണ സഖിക്ക് വിവാഹ വാർഷിക ആശംസകൾ
+2025-08-09 12:04:19 [INFO]: Received message for 917994107442: എന്റെ പ്രിയതമ എന്നോടൊപ്പം ചേർന്നിട്ട് പത്തുവർഷം തികയുന്നു ഒത്തിരി അഭിലാഷങ്ങളും ആഗ്രഹങ്ങളും സങ്കടങ്ങളും പങ്കു വെച്ചിട്ടുള്ള ജീവിതയാത്ര റബ്ബ് ഖബൂലാക്കട്ടെ. സ്വർഗത്തിലും നമ്മെ ഒരുമിപ്പിക്കട്ടെ... ആമീൻ ...
+2025-08-09 12:04:19 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:19 [INFO]: Received message for 917994107442: *One of my cousin's initiative* 🍃
+2025-08-09 12:04:19 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:19 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:19 [INFO]: Received message for 917994107442: @ മുക്കം
+2025-08-09 12:04:19 [INFO]: Received message for 917994107442: 🥰
+2025-08-09 12:04:19 [INFO]: Received message for 917994107442: Happy birthday dear 🫶♥️
+2025-08-09 12:04:19 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:19 [INFO]: Received message for 917994107442: 
+2025-08-09 12:04:26 [WARN]: QR generated for existing session 917994107443. Attempting to get pairing code instead.
+2025-08-09 12:04:27 [ERROR]: Could not get pairing code for 917994107443. QR was: 2@Jz85zpR7gSh39M0ZFq6CK4bTl/5LY5MEnRExW/fAgORtQQQCyEqWuytG+jVlaKmwZ3KMd6iclYqq1CaXI4UXvpfLIjDYod7EHhY=,i/WjWml/1TiRzJVbXVqih3TxYTCE3aAjuid726YhLkI=,Ei9xY9CSF8cPw2q58ztvRBSYVU1g0iO0DKho6tqnaTQ=,FrFcxLy5SmIvzvsZxcxJ9+Tfnu8yMpW1RlQwn79pxUE=,1
+2025-08-09 12:04:54 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-08-09 12:04:54 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 12:04:54 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-08-09 12:04:54 [INFO]: Histories directory ensured at: C:\Time Pass\whatsapp agent\histories
+2025-08-09 12:04:54 [INFO]: Loading existing sessions...
+2025-08-09 12:04:54 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-08-09 12:04:54 [INFO]: Server is running on port 3000
+2025-08-09 12:04:54 [INFO]: Loading existing sessions...
+2025-08-09 12:04:54 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 12:04:54 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 12:04:54 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 12:04:54 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 12:04:54 [INFO]: Default prompt loaded successfully.
+2025-08-09 12:04:54 [INFO]: Loaded 1 custom prompts.
+2025-08-09 12:05:09 [INFO]: Client initialization started for 917994107442
+2025-08-09 12:05:09 [INFO]: Found session for 917994107443. Attempting to initialize...
+2025-08-09 12:05:28 [INFO]: Session authenticated for 917994107442
+2025-08-09 12:05:37 [WARN]: QR generated for existing session 917994107443. Attempting to get pairing code instead.
+2025-08-09 12:05:37 [INFO]: Client initialization started for 917994107443
+2025-08-09 12:05:37 [INFO]: Finished loading existing sessions.
+2025-08-09 12:05:38 [INFO]: Session ready for 917994107442
+2025-08-09 12:05:38 [ERROR]: Could not get pairing code for 917994107443. QR was: 2@MLM7Urzq3rEdmTDuKxEZ5PVhVOecCJYjI1Zdm/6Y0bUaL+KSFFhhotsEY4mifNrW9ZP7iPoJHS5A5SLqnRSu3SSsTYqAPisvrPs=,g03n6WsBaWvmdcauSnGZGpIaNoBSudYeBm33E87ua2o=,jB+snT2sMGyoGQeHM9d8c41PxOq97QBrpH+gVZOAjVA=,Npdn2LUvTkcOZb5VarY/OE/by+YoFKooZysDbtHvaX4=,1
+2025-08-09 12:06:39 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-08-09 12:06:39 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 12:06:39 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-08-09 12:06:39 [INFO]: Histories directory ensured at: C:\Time Pass\whatsapp agent\histories
+2025-08-09 12:06:39 [INFO]: Loading existing sessions...
+2025-08-09 12:06:39 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-08-09 12:06:39 [INFO]: Server is running on port 3000
+2025-08-09 12:06:39 [INFO]: Loading existing sessions...
+2025-08-09 12:06:39 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 12:06:39 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 12:06:39 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 12:06:39 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 12:06:39 [INFO]: Default prompt loaded successfully.
+2025-08-09 12:06:39 [INFO]: Loaded 1 custom prompts.
+2025-08-09 12:06:59 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-08-09 12:06:59 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 12:06:59 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-08-09 12:06:59 [INFO]: Histories directory ensured at: C:\Time Pass\whatsapp agent\histories
+2025-08-09 12:06:59 [INFO]: Loading existing sessions...
+2025-08-09 12:06:59 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-08-09 12:06:59 [INFO]: Server is running on port 3000
+2025-08-09 12:06:59 [INFO]: Loading existing sessions...
+2025-08-09 12:06:59 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 12:06:59 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 12:06:59 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 12:06:59 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 12:06:59 [INFO]: Default prompt loaded successfully.
+2025-08-09 12:06:59 [INFO]: Loaded 1 custom prompts.
+2025-08-09 12:07:20 [WARN]: QR generated for existing session 917994107442. Attempting to get pairing code instead.
+2025-08-09 12:07:20 [INFO]: Client initialization started for 917994107442
+2025-08-09 12:07:20 [INFO]: Found session for 917994107443. Attempting to initialize...
+2025-08-09 12:07:21 [INFO]: Pairing code for 917994107442: FZTYQME7
+2025-08-09 12:07:36 [WARN]: QR generated for existing session 917994107443. Attempting to get pairing code instead.
+2025-08-09 12:07:37 [INFO]: Client initialization started for 917994107443
+2025-08-09 12:07:37 [INFO]: Finished loading existing sessions.
+2025-08-09 12:07:37 [ERROR]: Could not get pairing code for 917994107443. QR was: 2@3NeN+ilj4j1Yp9uXvn1/XhhSp2/2BDhKcroYfaCHDhQmJ9WmOP3YhoXQPFvz5ldtNm6hl28wS/b1GzZIQz0a7SotreEO4mgagS4=,in9QcKVmF2jVH2GJ8xCtf5QMwUaNQvCND/ZBvlzBc0Q=,mafRNd9uSnZafsvnGNovfAfK82yOpcEPm00C499JCFc=,EtbT8946AxN14ViIwUh2BsWuZN5p3c7sNLjRi9RkhWw=,1
+2025-08-09 12:08:19 [WARN]: QR generated for existing session 917994107442. Attempting to get pairing code instead.
+2025-08-09 12:08:20 [INFO]: Pairing code for 917994107442: XBZJL34B
+2025-08-09 12:08:36 [WARN]: QR generated for existing session 917994107443. Attempting to get pairing code instead.
+2025-08-09 12:08:36 [ERROR]: Could not get pairing code for 917994107443. QR was: 2@+myAyihFLXd1W2HDYqBjvyU+S6XiD7s/RJ3sxl7sLZkeKlsXPdMjjFywauz7thQhmgDqrNzsWAMLHmtxK0U8ZqMUQWo7gVdG7rg=,in9QcKVmF2jVH2GJ8xCtf5QMwUaNQvCND/ZBvlzBc0Q=,mafRNd9uSnZafsvnGNovfAfK82yOpcEPm00C499JCFc=,EtbT8946AxN14ViIwUh2BsWuZN5p3c7sNLjRi9RkhWw=,1
+2025-08-09 12:08:39 [WARN]: QR generated for existing session 917994107442. Attempting to get pairing code instead.
+2025-08-09 12:08:40 [INFO]: Pairing code for 917994107442: 68PSTHJ6
+2025-08-09 12:08:56 [WARN]: QR generated for existing session 917994107443. Attempting to get pairing code instead.
+2025-08-09 12:08:57 [ERROR]: Could not get pairing code for 917994107443. QR was: 2@jjjsgRlaFSRIM+OSOXZZFuSVyG1jZzRgw6bRbnG8iW5nZDUvDmhXSUCDYx834JZbaFDrWt5YMbdY78tj39RobQJSPAxgKQtdfJY=,in9QcKVmF2jVH2GJ8xCtf5QMwUaNQvCND/ZBvlzBc0Q=,mafRNd9uSnZafsvnGNovfAfK82yOpcEPm00C499JCFc=,EtbT8946AxN14ViIwUh2BsWuZN5p3c7sNLjRi9RkhWw=,1
+2025-08-09 12:08:59 [WARN]: QR generated for existing session 917994107442. Attempting to get pairing code instead.
+2025-08-09 12:09:00 [ERROR]: Could not get pairing code for 917994107442. QR was: 2@L7vLA1QBUvFtCZ4lbLsti5fTofdo/6lCl85ulGpzI+fqOvlT/BGm+zCF9ZbpuDXnpNj6lV37Krm5jD3K6CStGYkjC8pVAQJtPDc=,QsFyd0Kh1ecGphV0hMTG8Hn9jklq8f2SEmg8H9by4XI=,cRe2B4y9taAfWP0TPMW3M4uHm1HWIPSKI/CecRUwxzQ=,QHqDrcJ2FYeo7e0SHn+wjksEeyo8HPMUdkDkm2Vlke0=,1
+2025-08-09 12:09:13 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-08-09 12:09:13 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 12:09:13 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-08-09 12:09:13 [INFO]: Histories directory ensured at: C:\Time Pass\whatsapp agent\histories
+2025-08-09 12:09:13 [INFO]: Loading existing sessions...
+2025-08-09 12:09:13 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-08-09 12:09:13 [INFO]: Server is running on port 3000
+2025-08-09 12:09:13 [INFO]: Loading existing sessions...
+2025-08-09 12:09:13 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 12:09:13 [INFO]: Found session for 917994107442. Attempting to initialize...
+2025-08-09 12:09:13 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 12:09:13 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 12:09:13 [INFO]: Default prompt loaded successfully.
+2025-08-09 12:09:13 [INFO]: Loaded 1 custom prompts.
+2025-08-09 12:09:31 [WARN]: QR generated for existing session 917994107442. Attempting to get pairing code instead.
+2025-08-09 12:09:31 [INFO]: Client initialization started for 917994107442
+2025-08-09 12:09:31 [INFO]: Found session for 917994107443. Attempting to initialize...
+2025-08-09 12:09:31 [ERROR]: Could not get pairing code for 917994107442. QR was: 2@NOF6L2Luwin3bB2Z9FR0JXtoh03+mM7xKcC01+9lPEKdGqFuM//yErQFb+FupGv4oglH9zjI4+8TtCK2uKH47Ch3CfAEjVZO0a4=,h+RgeSUIzSurVeQxOUerFcslp1vn1AuvtPmDCi5Ycjw=,wrP0NH/OKnVMow7uoOfBVjezSSpqnGX0S0Bwt+JhvSM=,p6dw3B88mTyxr2xVODQ1sOKUKON9TmBhWGPKMA4JqNg=,1
+2025-08-09 12:09:43 [WARN]: QR generated for existing session 917994107443. Attempting to get pairing code instead.
+2025-08-09 12:09:43 [INFO]: Client initialization started for 917994107443
+2025-08-09 12:09:43 [INFO]: Finished loading existing sessions.
+2025-08-09 12:09:43 [ERROR]: Could not get pairing code for 917994107443. QR was: 2@Qf7oXDpf4T8TLwqEM+VhYLzOwg0akiOz2GsuWoo+zJA81p/5oi/xpAQMffJoA720vOSmhKza/ahq2/vGH+fmAaHKUDK++J7JKxY=,4J3l3LTNNi8FH8mmOZq1/LXsvaduE3GJSRedz5EIUlQ=,gkWH12eTr3prd5YnxYX2C/cudX8QSMQ4Ehtujlj0InU=,LpPMkA+APPo5A2CtJRpFKVEPSbnV27Ij3EjsRWoIRjs=,1
+2025-08-09 12:10:30 [WARN]: QR generated for existing session 917994107442. Attempting to get pairing code instead.
+2025-08-09 12:10:31 [ERROR]: Could not get pairing code for 917994107442. QR was: 2@iHQ+pJouyITI0yv25nwwgDlEfyvyy746vqAHSHqUHhvKl6+vmGVfsHYox5WxQCXs7rMT4fsjGzLWDnzVvgPIgSgA5FOUsAi+sOs=,h+RgeSUIzSurVeQxOUerFcslp1vn1AuvtPmDCi5Ycjw=,wrP0NH/OKnVMow7uoOfBVjezSSpqnGX0S0Bwt+JhvSM=,p6dw3B88mTyxr2xVODQ1sOKUKON9TmBhWGPKMA4JqNg=,1
+2025-08-09 12:10:34 [INFO]: Client destroyed for 917994107442
+2025-08-09 12:10:34 [ERROR]: Error removing session data for 917994107442: EBUSY: resource busy or locked, unlink 'C:\Time Pass\whatsapp agent\sessions\session-917994107442\Default\chrome_debug.log'
+2025-08-09 12:10:34 [INFO]: Session state removed from memory for 917994107442
+2025-08-09 12:10:42 [WARN]: QR generated for existing session 917994107443. Attempting to get pairing code instead.
+2025-08-09 12:10:43 [ERROR]: Could not get pairing code for 917994107443. QR was: 2@Vkc4naEwCvlZVamlN3QWfLdcHHvWUNbHTq57dra1JYNZGa7iKZqztlclhMWimFQy5FFUW1hJHfS/uhoROV6Ij9heBwmn8PG7+kk=,4J3l3LTNNi8FH8mmOZq1/LXsvaduE3GJSRedz5EIUlQ=,gkWH12eTr3prd5YnxYX2C/cudX8QSMQ4Ehtujlj0InU=,LpPMkA+APPo5A2CtJRpFKVEPSbnV27Ij3EjsRWoIRjs=,1
+2025-08-09 12:10:53 [INFO]: Creating new session for 917994107442. Bot is working...
+2025-08-09 12:11:03 [WARN]: QR generated for existing session 917994107443. Attempting to get pairing code instead.
+2025-08-09 12:11:04 [ERROR]: Could not get pairing code for 917994107443. QR was: 2@tu/M/oEOnmnZlYod5vSEGsT+XNpFiAM0agJzstVLhs62uhxu+cllo+RKxsM9G5Z8qS36gddw+rd/PwisCCMqtLfqo0Ny7EyT2B4=,4J3l3LTNNi8FH8mmOZq1/LXsvaduE3GJSRedz5EIUlQ=,gkWH12eTr3prd5YnxYX2C/cudX8QSMQ4Ehtujlj0InU=,LpPMkA+APPo5A2CtJRpFKVEPSbnV27Ij3EjsRWoIRjs=,1
+2025-08-09 12:11:12 [INFO]: Client initialization started for 917994107442
+2025-08-09 12:11:12 [ERROR]: Failed to initialize session for 917994107442: Evaluation failed: a
+2025-08-09 12:11:12 [INFO]: Client destroyed for 917994107442
+2025-08-09 12:11:12 [ERROR]: Error removing session data for 917994107442: EBUSY: resource busy or locked, unlink 'C:\Time Pass\whatsapp agent\sessions\session-917994107442\Default\chrome_debug.log'
+2025-08-09 12:11:12 [INFO]: Session state removed from memory for 917994107442
+2025-08-09 12:11:22 [WARN]: QR generated for existing session 917994107443. Attempting to get pairing code instead.
+2025-08-09 12:11:23 [ERROR]: Could not get pairing code for 917994107443. QR was: 2@f88CNNXfBln4j33JMsspphmHxVghFMIXZksVxca1I+mMx5LQh737nzt0fi/A1uR3U+Cpvu61rZMUlKL1whG5bmH7IWAZw9/7m2w=,4J3l3LTNNi8FH8mmOZq1/LXsvaduE3GJSRedz5EIUlQ=,gkWH12eTr3prd5YnxYX2C/cudX8QSMQ4Ehtujlj0InU=,LpPMkA+APPo5A2CtJRpFKVEPSbnV27Ij3EjsRWoIRjs=,1
+2025-08-09 12:11:59 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-08-09 12:11:59 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 12:11:59 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-08-09 12:11:59 [INFO]: Histories directory ensured at: C:\Time Pass\whatsapp agent\histories
+2025-08-09 12:11:59 [INFO]: Loading existing sessions...
+2025-08-09 12:11:59 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-08-09 12:11:59 [INFO]: Server is running on port 3000
+2025-08-09 12:11:59 [INFO]: Loading existing sessions...
+2025-08-09 12:11:59 [INFO]: Finished loading existing sessions.
+2025-08-09 12:11:59 [INFO]: Finished loading existing sessions.
+2025-08-09 12:11:59 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 12:11:59 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 12:11:59 [INFO]: Loaded 1 custom prompts.
+2025-08-09 12:11:59 [INFO]: Default prompt loaded successfully.
+2025-08-09 12:12:23 [INFO]: Creating new session for 917994107442. Bot is working...
+2025-08-09 12:12:36 [INFO]: Client initialization started for 917994107442
+2025-08-09 12:12:37 [ERROR]: Failed to initialize session for 917994107442: Evaluation failed: a
+2025-08-09 12:12:37 [INFO]: Client destroyed for 917994107442
+2025-08-09 12:12:37 [INFO]: Session data removed for 917994107442 at C:\Time Pass\whatsapp agent\sessions\session-917994107442
+2025-08-09 12:12:37 [INFO]: Session state removed from memory for 917994107442
+2025-08-09 12:13:21 [INFO]: Creating new session for 917994107442. Bot is working...
+2025-08-09 12:13:33 [INFO]: Client initialization started for 917994107442
+2025-08-09 12:13:34 [ERROR]: Failed to initialize session for 917994107442: Evaluation failed: a
+2025-08-09 12:13:34 [INFO]: Client destroyed for 917994107442
+2025-08-09 12:13:34 [INFO]: Session data removed for 917994107442 at C:\Time Pass\whatsapp agent\sessions\session-917994107442
+2025-08-09 12:13:34 [INFO]: Session state removed from memory for 917994107442
+2025-08-09 12:14:11 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-08-09 12:14:11 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 12:14:11 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-08-09 12:14:11 [INFO]: Histories directory ensured at: C:\Time Pass\whatsapp agent\histories
+2025-08-09 12:14:11 [INFO]: Loading existing sessions...
+2025-08-09 12:14:11 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-08-09 12:14:11 [INFO]: Server is running on port 3000
+2025-08-09 12:14:11 [INFO]: Loading existing sessions...
+2025-08-09 12:14:11 [INFO]: Finished loading existing sessions.
+2025-08-09 12:14:11 [INFO]: Finished loading existing sessions.
+2025-08-09 12:14:11 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 12:14:11 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 12:14:11 [INFO]: Default prompt loaded successfully.
+2025-08-09 12:14:11 [INFO]: Loaded 1 custom prompts.
+2025-08-09 12:14:38 [INFO]: Creating new session for 917994107442. Bot is working...
+2025-08-09 12:14:51 [INFO]: Client initialization started for 917994107442
+2025-08-09 12:14:51 [ERROR]: Failed to initialize session for 917994107442: Evaluation failed: a
+2025-08-09 12:14:52 [INFO]: Client destroyed for 917994107442
+2025-08-09 12:14:52 [INFO]: Session data removed for 917994107442 at C:\Time Pass\whatsapp agent\sessions\session-917994107442
+2025-08-09 12:14:52 [INFO]: Session state removed from memory for 917994107442
+2025-08-09 12:15:18 [INFO]: Creating new session for 917994107442. Bot is working...
+2025-08-09 12:15:32 [INFO]: Client initialization started for 917994107442
+2025-08-09 12:15:32 [ERROR]: Failed to initialize session for 917994107442: Evaluation failed: a
+2025-08-09 12:15:32 [INFO]: Client destroyed for 917994107442
+2025-08-09 12:15:32 [INFO]: Session data removed for 917994107442 at C:\Time Pass\whatsapp agent\sessions\session-917994107442
+2025-08-09 12:15:32 [INFO]: Session state removed from memory for 917994107442
+2025-08-09 12:17:13 [INFO]: Sessions directory ensured at: C:\Time Pass\whatsapp agent\sessions
+2025-08-09 12:17:13 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 12:17:13 [INFO]: Logs directory ensured at: C:\Time Pass\whatsapp agent\logs
+2025-08-09 12:17:13 [INFO]: Histories directory ensured at: C:\Time Pass\whatsapp agent\histories
+2025-08-09 12:17:13 [INFO]: Loading existing sessions...
+2025-08-09 12:17:13 [INFO]: Validation middleware setup complete. Schemas exported.
+2025-08-09 12:17:13 [INFO]: Server is running on port 3000
+2025-08-09 12:17:13 [INFO]: Loading existing sessions...
+2025-08-09 12:17:13 [INFO]: Finished loading existing sessions.
+2025-08-09 12:17:13 [INFO]: Finished loading existing sessions.
+2025-08-09 12:17:13 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 12:17:13 [INFO]: Prompts directory ensured at: C:\Time Pass\whatsapp agent\prompts
+2025-08-09 12:17:13 [INFO]: Default prompt loaded successfully.
+2025-08-09 12:17:13 [INFO]: Loaded 1 custom prompts.
+2025-08-09 12:17:34 [INFO]: Creating new session for 917994107442. Bot is working...
+2025-08-09 12:17:49 [INFO]: Client initialization started for 917994107442
+2025-08-09 12:17:50 [ERROR]: Failed to initialize session for 917994107442: Evaluation failed: a
+2025-08-09 12:17:50 [INFO]: Client destroyed for 917994107442
+2025-08-09 12:17:50 [INFO]: Session data removed for 917994107442 at C:\Time Pass\whatsapp agent\sessions\session-917994107442
+2025-08-09 12:17:50 [INFO]: Session state removed from memory for 917994107442

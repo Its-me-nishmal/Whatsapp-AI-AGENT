@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WhatsApp AI Bot Control Panel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>WhatsApp AI Bot Control Panel</h1>
+        <div class="session-creator">
+            <input type="text" id="mobileNumber" placeholder="Enter mobile number (e.g., 91xxxxxxxxxx)">
+            <button id="generateCodeBtn">Generate Code</button>
+        </div>
+        <div id="sessionInfo" class="hidden">
+            <h2>Session Information</h2>
+            <p><strong>Status:</strong> <span id="status"></span></p>
+            <p><strong>Pairing Code:</strong> <span id="pairingCode"></span></p>
+            <div id="promptContainer" class="hidden">
+                <h3>System Prompt</h3>
+                <textarea id="promptText" rows="5"></textarea>
+                <button id="savePromptBtn">Save Prompt</button>
+            </div>
+            <button id="clearSessionBtn">Clear Session</button>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>

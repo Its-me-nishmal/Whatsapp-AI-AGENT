@@ -1,0 +1,33 @@
+{
+  "name": "whatsapp-ai-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp multi-session AI bot using Node.js, Express, whatsapp-web.js, and Google Gemini",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "ai",
+    "bot",
+    "gemini",
+    "express",
+    "nodejs"
+  ],
+  "author": "Roo",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.11.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "fs-extra": "^11.2.0",
+    "joi": "^17.13.1",
+    "winston": "^3.13.0",
+    "whatsapp-web.js": "^1.23.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}

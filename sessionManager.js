@@ -86,21 +86,22 @@ export function initializeSessionManager(logger, __dirname, promptManager) {
                     logger.info(`Found session for ${mobileNumber}. Attempting to initialize...`);
                     try {
                         // Re-initialize client with existing session data
-                        const client = new Client({
-                            authStrategy: new LocalAuth({ clientId: mobileNumber, dataPath: SESSIONS_DIR }),
-                            puppeteer: {
-                                headless: true,
-                                args: [
-  '--no-sandbox',
-  '--disable-setuid-sandbox',
-  '--disable-dev-shm-usage',
-  '--disable-gpu',
-  '--disable-features=NetworkService',
-  '--disable-features=VizDisplayCompositor',
-  '--disable-ipv6'
-],
-                            },
-                        });
+                        // const client = new Client({
+                        //     authStrategy: new LocalAuth({ clientId: mobileNumber, dataPath: SESSIONS_DIR }),
+                        //     puppeteer: {
+                        //         headless: true,
+                        //         args: [
+                        //             '--no-sandbox',
+                        //             '--disable-setuid-sandbox',
+                        //             '--disable-dev-shm-usage',
+                        //             '--disable-gpu',
+                        //             '--disable-features=NetworkService',
+                        //             '--disable-features=VizDisplayCompositor',
+                        //             '--disable-ipv6'
+                        //         ],
+                        //     },
+                        // });
+                        const client = new Client();
 
                         client.on('qr', async (qr) => {
                             logger.warn(`QR generated for existing session ${mobileNumber}. Attempting to get pairing code instead.`);
@@ -147,10 +148,10 @@ export function initializeSessionManager(logger, __dirname, promptManager) {
                                 logger.info(`Received command from ${msg.from}: ${msg.body}`);
                                 const fromNumber = msg.from.split('@')[0];
                                 const sessionOwnerNumber = client.info.wid.user;
-                        
+
                                 const command = msg.body.slice(1).trim();
                                 const [commandName, ...args] = command.split(' ');
-                        
+
                                 if (commandName === 'setprompt' && fromNumber === sessionOwnerNumber) {
                                     const newPrompt = args.join(' ');
                                     if (newPrompt) {
@@ -277,51 +278,51 @@ export function initializeSessionManager(logger, __dirname, promptManager) {
 
             client.on('message_create', async (msg) => {
 
-                            logger.info(`Received message for ${mobileNumber}: ${msg.body}`);
-                            if (msg.body && msg.body.startsWith('.')) {
-                                logger.info(`Received command from ${msg.from}: ${msg.body}`);
-                                const fromNumber = msg.from.split('@')[0];
-                                const sessionOwnerNumber = client.info.wid.user;
-                        
-                                const command = msg.body.slice(1).trim();
-                                const [commandName, ...args] = command.split(' ');
-                        
-                                if (commandName === 'setprompt' && fromNumber === sessionOwnerNumber) {
-                                    const newPrompt = args.join(' ');
-                                    if (newPrompt) {
-                                        try {
-                                            await promptManager.setPrompt({ params: { mobile: sessionOwnerNumber }, body: { systemPrompt: newPrompt } });
-                                            await client.sendMessage(msg.from, 'Prompt updated successfully!');
-                                            logger.info(`Prompt updated by admin ${sessionOwnerNumber}`);
-                                        } catch (error) {
-                                            logger.error(`Error setting prompt: ${error.message}`);
-                                            await client.sendMessage(msg.from, 'Failed to update prompt.');
-                                        }
-                                    } else {
-                                        await client.sendMessage(msg.from, 'Please provide a prompt after the .setprompt command.');
-                                    }
-                                } else if (command.length > 0) {
-                                    try {
-                                        const aiHandler = await initializeAI(logger, fromNumber);
-                                        const response = await generateAIResponse(
-                                            command,
-                                            fromNumber,
-                                            promptManager,
-                                            aiHandler
-                                        );
-                                        if (response) {
-                                            await client.sendMessage(msg.from, response);
-                                            logger.info(`Sent AI response to ${msg.from}`);
-                                        }
-                                    } catch (error) {
-                                        logger.error(`Error processing message from ${msg.from}: ${error.message}`);
-                                        await client.sendMessage(msg.from, 'Sorry, I encountered an error processing your request.');
-                                    }
-                                } else {
-                                    await client.sendMessage(msg.from, 'Welcome! You can start a conversation by sending a message starting with a dot (.), or set a new prompt using ".setprompt your new prompt here".');
-                                }
+                logger.info(`Received message for ${mobileNumber}: ${msg.body}`);
+                if (msg.body && msg.body.startsWith('.')) {
+                    logger.info(`Received command from ${msg.from}: ${msg.body}`);
+                    const fromNumber = msg.from.split('@')[0];
+                    const sessionOwnerNumber = client.info.wid.user;
+
+                    const command = msg.body.slice(1).trim();
+                    const [commandName, ...args] = command.split(' ');
+
+                    if (commandName === 'setprompt' && fromNumber === sessionOwnerNumber) {
+                        const newPrompt = args.join(' ');
+                        if (newPrompt) {
+                            try {
+                                await promptManager.setPrompt({ params: { mobile: sessionOwnerNumber }, body: { systemPrompt: newPrompt } });
+                                await client.sendMessage(msg.from, 'Prompt updated successfully!');
+                                logger.info(`Prompt updated by admin ${sessionOwnerNumber}`);
+                            } catch (error) {
+                                logger.error(`Error setting prompt: ${error.message}`);
+                                await client.sendMessage(msg.from, 'Failed to update prompt.');
                             }
-                        });
+                        } else {
+                            await client.sendMessage(msg.from, 'Please provide a prompt after the .setprompt command.');
+                        }
+                    } else if (command.length > 0) {
+                        try {
+                            const aiHandler = await initializeAI(logger, fromNumber);
+                            const response = await generateAIResponse(
+                                command,
+                                fromNumber,
+                                promptManager,
+                                aiHandler
+                            );
+                            if (response) {
+                                await client.sendMessage(msg.from, response);
+                                logger.info(`Sent AI response to ${msg.from}`);
+                            }
+                        } catch (error) {
+                            logger.error(`Error processing message from ${msg.from}: ${error.message}`);
+                            await client.sendMessage(msg.from, 'Sorry, I encountered an error processing your request.');
+                        }
+                    } else {
+                        await client.sendMessage(msg.from, 'Welcome! You can start a conversation by sending a message starting with a dot (.), or set a new prompt using ".setprompt your new prompt here".');
+                    }
+                }
+            });
 
             await client.initialize();
             logger.info(`Client initialization started for ${mobileNumber}`);

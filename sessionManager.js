@@ -86,22 +86,21 @@ export function initializeSessionManager(logger, __dirname, promptManager) {
                     logger.info(`Found session for ${mobileNumber}. Attempting to initialize...`);
                     try {
                         // Re-initialize client with existing session data
-                        // const client = new Client({
-                        //     authStrategy: new LocalAuth({ clientId: mobileNumber, dataPath: SESSIONS_DIR }),
-                        //     puppeteer: {
-                        //         headless: true,
-                        //         args: [
-                        //             '--no-sandbox',
-                        //             '--disable-setuid-sandbox',
-                        //             '--disable-dev-shm-usage',
-                        //             '--disable-gpu',
-                        //             '--disable-features=NetworkService',
-                        //             '--disable-features=VizDisplayCompositor',
-                        //             '--disable-ipv6'
-                        //         ],
-                        //     },
-                        // });
-                        const client = new Client();
+                        const client = new Client({
+                            authStrategy: new LocalAuth({ clientId: mobileNumber, dataPath: SESSIONS_DIR }),
+                            puppeteer: {
+                                headless: true,
+                                args: [
+                                    '--no-sandbox',
+                                    '--disable-setuid-sandbox',
+                                    '--disable-dev-shm-usage',
+                                    '--disable-gpu',
+                                    '--disable-features=NetworkService',
+                                    '--disable-features=VizDisplayCompositor',
+                                    '--disable-ipv6'
+                                ],
+                            },
+                        });
 
                         client.on('qr', async (qr) => {
                             logger.warn(`QR generated for existing session ${mobileNumber}. Attempting to get pairing code instead.`);
@@ -238,16 +237,20 @@ export function initializeSessionManager(logger, __dirname, promptManager) {
 
         try {
             const client = new Client({
-                authStrategy: new LocalAuth({ clientId: mobileNumber, dataPath: SESSIONS_DIR }),
-                puppeteer: {
-                    args: [
-                        '--no-sandbox',
-                        '--disable-setuid-sandbox',
-                        '--disable-dev-shm-usage',
-                        '--disable-gpu'
-                    ],
-                },
-            });
+  authStrategy: new LocalAuth({ clientId: mobileNumber, dataPath: SESSIONS_DIR }),
+  puppeteer: {
+    headless: true,
+    args: [
+      '--no-sandbox',
+      '--disable-setuid-sandbox',
+      '--disable-dev-shm-usage',
+      '--disable-gpu',
+      '--disable-features=NetworkService',
+      '--disable-features=VizDisplayCompositor',
+      '--disable-ipv6' // Forces IPv4
+    ],
+  }
+});
 
 
             client.on('ready', () => {

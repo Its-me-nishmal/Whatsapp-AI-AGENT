@@ -91,11 +91,14 @@ export function initializeSessionManager(logger, __dirname, promptManager) {
                             puppeteer: {
                                 headless: true,
                                 args: [
-                                    '--no-sandbox',
-                                    '--disable-setuid-sandbox',
-                                    '--disable-dev-shm-usage',
-                                    '--disable-gpu'
-                                ],
+  '--no-sandbox',
+  '--disable-setuid-sandbox',
+  '--disable-dev-shm-usage',
+  '--disable-gpu',
+  '--disable-features=NetworkService',
+  '--disable-features=VizDisplayCompositor',
+  '--disable-ipv6'
+],
                             },
                         });
 
